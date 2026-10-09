@@ -1,0 +1,557 @@
+{
+  "period": "2026-10-17_18",
+  "generated_at": "2026-10-10T08:35:43.271+09:00",
+  "events": [
+    {
+      "event_id": "evt_20261017_chatgpt_920ca87a0216",
+      "title": "京王アリーナTOKYO スポーツパーク2026",
+      "event_dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "time": "10:00～15:30",
+      "venue": "京王アリーナTOKYO",
+      "city": "調布市",
+      "price": "入場無料（一部有料コンテンツあり）",
+      "target": "障害の有無にかかわらず誰でも",
+      "reservation": "－",
+      "category": "スポーツ・体験",
+      "description": "バスケットボール、バドミントン、マイクラ、パルクール、車いすバスケ、アートなど日替わりの体験を実施。",
+      "official_url": "https://keio-arena.tokyo/sportspark2026/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://keio-arena.tokyo/sportspark2026/",
+        "https://www.city.chofu.lg.jp/010040/p078219.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261017_chatgpt_abc40bf22d91",
+      "title": "京王アリーナTOKYOスポーツパーク2026 国際大会出場選手による水泳教室",
+      "event_dates": [
+        "2026-10-17"
+      ],
+      "time": "－",
+      "venue": "京王アリーナTOKYO プール",
+      "city": "調布市",
+      "price": "－",
+      "target": "－",
+      "reservation": "公式日程ページの申込フォームから申込み",
+      "category": "スポーツ・水泳",
+      "description": "国際大会出場選手による水泳教室。",
+      "official_url": "https://keio-arena.tokyo/schedule/2026/10/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://keio-arena.tokyo/schedule/2026/10/"
+      ]
+    },
+    {
+      "event_id": "evt_20261018_chatgpt_a0bc5e302611",
+      "title": "まちづくり市民フェア2026",
+      "event_dates": [
+        "2026-10-18"
+      ],
+      "time": "10:00～15:00",
+      "venue": "日野市市民の森ふれあいホール・仲田の森蚕糸公園",
+      "city": "日野市",
+      "price": "入場無料",
+      "target": "子ども・保護者を含む一般来場者",
+      "reservation": "－",
+      "category": "地域フェス・体験",
+      "description": "市民団体による体験ワークショップ、フリーマーケット、子ども出展、謎解きラリー、ステージやフード屋台など。",
+      "official_url": "https://www.city.hino.lg.jp/kurashi/shiminkatsudo/shiminkatsudo/1024570.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.hino.lg.jp/kurashi/shiminkatsudo/shiminkatsudo/1024570.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261018_chatgpt_cc56a855d018",
+      "title": "三鷹の森フェスティバル2026",
+      "event_dates": [
+        "2026-10-18"
+      ],
+      "time": "10:30～17:00",
+      "venue": "井の頭恩賜公園 西園 文化交流広場",
+      "city": "三鷹市",
+      "price": "無料",
+      "target": "－",
+      "reservation": "申込不要",
+      "category": "音楽・地域フェス",
+      "description": "三鷹の森ジブリ美術館の誕生を記念して始まった野外音楽フェス。音楽ライブ、物産販売、模擬店など。",
+      "official_url": "https://www.city.mitaka.lg.jp/c_event/120/120929.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.mitaka.lg.jp/c_event/120/120929.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261018_chatgpt_9a3f32e02e44",
+      "title": "あたご縁日（第2弾）",
+      "event_dates": [
+        "2026-10-18"
+      ],
+      "time": "11:00～15:00",
+      "venue": "コミュニティプレイスあたご（愛宕4-53-1）",
+      "city": "多摩市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "地域祭り",
+      "description": "地域交流の縁日イベント。ステージ公演も予定。",
+      "official_url": "https://www.city.tama.lg.jp/shisei/koe/chiiki/1010307/1020533/1021468.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.tama.lg.jp/shisei/koe/chiiki/1010307/1020533/1021468.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261017_chatgpt_254bc29c9d57",
+      "title": "TAMATAMA FESTIVAL 2026",
+      "event_dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "time": "10:30～19:00",
+      "venue": "多摩センター駅前・パルテノン大通り・パルテノン多摩・多摩中央公園",
+      "city": "多摩市",
+      "price": "入場無料（一部有料プログラムあり）",
+      "target": "－",
+      "reservation": "－",
+      "category": "文化祭・地域フェス",
+      "description": "野外ライブ、マーケット、カレーフェス、キッズエリア、地域まつり、ワークショップなどを展開する文化祭。",
+      "official_url": "https://www.tamacci.or.jp/event/tamatama-festival2026.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.tamacci.or.jp/event/tamatama-festival2026.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261017_chatgpt_b582d6826410",
+      "title": "exPoP!!!!!@TAMATAMA2026 フリーライブ",
+      "event_dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "time": "10/17 11:30～17:00、10/18 10:30～17:00",
+      "venue": "多摩センター駅前・パルテノン大通り（NiEW TOWN PARTY）",
+      "city": "多摩市",
+      "price": "無料",
+      "target": "－",
+      "reservation": "－",
+      "category": "音楽・ライブ",
+      "description": "17日は三浦透子、goetheなど、18日はトクマルシューゴ、Hedigan’sなどが出演する野外無料音楽ステージ。",
+      "official_url": "https://niewmedia.com/news/2609tamafes-timetable/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://niewmedia.com/news/2609tamafes-timetable/"
+      ]
+    },
+    {
+      "event_id": "evt_20261017_chatgpt_b1aa68804465",
+      "title": "TAMATAMA寄席",
+      "event_dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "time": "10/17 15:50～16:30、10/18 12:40～13:20",
+      "venue": "パルテノン多摩 4F会議室1",
+      "city": "多摩市",
+      "price": "無料",
+      "target": "－",
+      "reservation": "－",
+      "category": "落語・伝統芸能",
+      "description": "若手落語家・桂枝之進による無料の寄席。",
+      "official_url": "https://niewmedia.com/news/2610tamafes-timetable/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://niewmedia.com/news/2610tamafes-timetable/"
+      ]
+    },
+    {
+      "event_id": "evt_20261018_chatgpt_d2e320a9ebdf",
+      "title": "第15回 八王子北条氏照まつり",
+      "event_dates": [
+        "2026-10-18"
+      ],
+      "time": "10:00～14:00",
+      "venue": "八王子城跡 御主殿跡地・模型広場・ガイダンス施設など",
+      "city": "八王子市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "歴史・祭り",
+      "description": "甲冑武者隊の演武・パレード、太鼓演奏、模擬店など。",
+      "official_url": "https://www.hkc.or.jp/event/detail.php?id=163",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.hkc.or.jp/event/detail.php?id=163"
+      ]
+    },
+    {
+      "event_id": "evt_20261018_chatgpt_53c7ffd03e48",
+      "title": "さとやま秋日和",
+      "event_dates": [
+        "2026-10-18"
+      ],
+      "time": "10:30～14:00",
+      "venue": "都立野山北・六道山公園 里山民家（岸2-32）",
+      "city": "武蔵村山市",
+      "price": "無料",
+      "target": "どなたでも（小学生以下は保護者同伴）",
+      "reservation": "－",
+      "category": "自然・地域イベント",
+      "description": "スタンプラリー、オカリナ演奏、水辺の生きもの展示などで秋の里山を楽しむ。",
+      "official_url": "https://sayamaparks.com/event/event-4134/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://sayamaparks.com/event/event-4134/"
+      ]
+    },
+    {
+      "event_id": "evt_20261017_chatgpt_f3a10b2ba615",
+      "title": "青空の北欧市場 TACHIKAWA LOPPIS autumn side 2026",
+      "event_dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "time": "11:00～17:00（予定）",
+      "venue": "GREEN SPRINGS 2F 街区内",
+      "city": "立川市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "マルシェ・文化体験",
+      "description": "北欧雑貨・菓子などの市場、北欧文化のトークやワークショップ、ヴァイキング体験など。",
+      "official_url": "https://greensprings.jp/event/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://greensprings.jp/event/",
+        "https://prtimes.jp/main/html/rd/p/000000193.000099018.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261017_chatgpt_5268ee1a0a92",
+      "title": "TACHIKAWA LOPPIS「はじめての北欧神話」",
+      "event_dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "time": "10/17 15:00～16:00、10/18 14:00～15:00",
+      "venue": "GREEN SPRINGS LIVING ROOM W",
+      "city": "立川市",
+      "price": "観覧無料",
+      "target": "－",
+      "reservation": "－",
+      "category": "文化・トーク",
+      "description": "日本ヴァイキング協会による、北欧神話の神々や巨人、不思議な動物を紹介するトーク。",
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000193.000099018.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://prtimes.jp/main/html/rd/p/000000193.000099018.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261017_chatgpt_483f3af83232",
+      "title": "だれでも体験プログラム10月「コスモスかざぐるまをつくろう」",
+      "event_dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "time": "13:00～15:00（受付14:50まで）",
+      "venue": "国営昭和記念公園 花みどり文化センター エントランス付近",
+      "city": "立川市",
+      "price": "無料",
+      "target": "どなたでも（幼児は保護者と参加可）",
+      "reservation": "自由参加・当日受付",
+      "category": "工作・体験",
+      "description": "紙を使ったコスモス型のかざぐるま作り。ボランティアが作り方を案内。",
+      "official_url": "https://www.showakinen-koen.jp/event/75269/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.showakinen-koen.jp/event/75269/"
+      ]
+    },
+    {
+      "event_id": "evt_20261017_chatgpt_0d22d369617f",
+      "title": "サツマイモ掘り体験＠こもれびの里",
+      "event_dates": [
+        "2026-10-17"
+      ],
+      "time": "10:20～12:00、13:10～14:10（20分交替で全8回）",
+      "venue": "国営昭和記念公園 こもれびの里",
+      "city": "立川市",
+      "price": "400円/名（入園料別）",
+      "target": "小学1年生以上（未就学児は保護者の手伝いとして参加可）",
+      "reservation": "10/3応募締切・抽選済み。10/5に当選番号公表。",
+      "category": "農業・収穫体験",
+      "description": "畑でサツマイモを2株掘り、収穫したものを持ち帰る体験。",
+      "official_url": "https://www.showakinen-koen.jp/event/73443/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.showakinen-koen.jp/event/73443/",
+        "https://www.showakinen-koen.jp/news/75705/"
+      ]
+    },
+    {
+      "event_id": "evt_20261017_chatgpt_a116c3576656",
+      "title": "タチカワ映楽祭in国営昭和記念公園",
+      "event_dates": [
+        "2026-10-17"
+      ],
+      "time": "ワークショップ14:00～、映画イベント16:00～20:00",
+      "venue": "国営昭和記念公園 花みどり文化センター 講義室・浮游の庭",
+      "city": "立川市",
+      "price": "高校生以上1,500円、小中学生以下500円",
+      "target": "小中学生は保護者同伴",
+      "reservation": "公式申込みリンクから申込み",
+      "category": "映画・ワークショップ",
+      "description": "映画を通じた交流の場を目指すイベント。映画イベントに先立ちワークショップも実施。",
+      "official_url": "https://www.showakinen-koen.jp/event/75377/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.showakinen-koen.jp/event/75377/"
+      ]
+    },
+    {
+      "event_id": "evt_20261017_chatgpt_a4a7a5e371e6",
+      "title": "季節を彩るガーデニング＆クラフト教室「来年の花壇の準備をしよう」",
+      "event_dates": [
+        "2026-10-17"
+      ],
+      "time": "10:00～12:00（雨天時は10/18に延期）",
+      "venue": "国営昭和記念公園 あけぼの口・総合案内所",
+      "city": "立川市",
+      "price": "全7回セット2,750円",
+      "target": "小学生以上",
+      "reservation": "長期講座（全7回）としてWEB先着申込・事前入金制。10/17単独回の新規参加可否は－",
+      "category": "園芸・体験",
+      "description": "花壇の草花を刈り取り、土づくりや肥料について学び実際に作業する長期講座の1回。",
+      "official_url": "https://www.showakinen-koen.jp/event/66122/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.showakinen-koen.jp/event/66122/"
+      ]
+    },
+    {
+      "event_id": "evt_20261018_chatgpt_2922ea33230a",
+      "title": "野鳥観察会2026（10月）",
+      "event_dates": [
+        "2026-10-18"
+      ],
+      "time": "10:00～12:00",
+      "venue": "国営昭和記念公園 西立川口集合～バードサンクチュアリー",
+      "city": "立川市",
+      "price": "参加無料（入園料別）",
+      "target": "－",
+      "reservation": "開催2週間前9:00からWEB先着申込（定員50名）",
+      "category": "自然観察",
+      "description": "野鳥ボランティアと園内を歩き、見つけた野鳥の種類や数を記録する初心者向け観察会。",
+      "official_url": "https://www.showakinen-koen.jp/event/64823/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.showakinen-koen.jp/event/64823/"
+      ]
+    },
+    {
+      "event_id": "evt_20261018_chatgpt_0c5375bffeb1",
+      "title": "Park Fitness ニュースポーツ体験DAY2026",
+      "event_dates": [
+        "2026-10-18"
+      ],
+      "time": "10:30～14:30",
+      "venue": "国営昭和記念公園 スポーツエリアほか",
+      "city": "立川市",
+      "price": "参加無料（入園料別）",
+      "target": "－",
+      "reservation": "当日各実施エリアで随時受付",
+      "category": "スポーツ・体験",
+      "description": "ディスクゴルフ、ペタンク、クロッケー、ローンボウルズ、ホースシューズ、一輪車、ターゲットバードゴルフの体験。",
+      "official_url": "https://www.showakinen-koen.jp/event/64830/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.showakinen-koen.jp/event/64830/"
+      ]
+    },
+    {
+      "event_id": "evt_20261018_chatgpt_1cca30f8ab00",
+      "title": "はじめてのお茶室2026「名残の月」",
+      "event_dates": [
+        "2026-10-18"
+      ],
+      "time": "11:00～12:00、13:00～14:00",
+      "venue": "国営昭和記念公園 日本庭園・歓楓亭",
+      "city": "立川市",
+      "price": "1,200円（入園料別）",
+      "target": "－",
+      "reservation": "予約サイトで事前申込。空きがあれば当日現地受付。",
+      "category": "茶道・伝統文化",
+      "description": "お点前を見ながら上生菓子の食べ方や薄茶の飲み方など、茶道の基本作法を体験。",
+      "official_url": "https://www.showakinen-koen.jp/event/66431/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.showakinen-koen.jp/event/66431/"
+      ]
+    },
+    {
+      "event_id": "evt_20261018_chatgpt_aa3b60ed6acb",
+      "title": "花文シーズナルアート2026「秋を感じるベジバスケット」",
+      "event_dates": [
+        "2026-10-18"
+      ],
+      "time": "11:00～12:30",
+      "venue": "国営昭和記念公園 花みどり文化センター 研修室",
+      "city": "立川市",
+      "price": "3,300円",
+      "target": "－",
+      "reservation": "10/11まで申込みフォームで先着受付（定員8名）",
+      "category": "クラフト・園芸",
+      "description": "秋をテーマにしたベジバスケット制作。",
+      "official_url": "https://www.showakinen-koen.jp/event/75027/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.showakinen-koen.jp/event/75027/"
+      ]
+    },
+    {
+      "event_id": "evt_20261018_chatgpt_6421c5c3d46d",
+      "title": "Park Fitness かけっこ教室（10月）",
+      "event_dates": [
+        "2026-10-18"
+      ],
+      "time": "10:30～12:00",
+      "venue": "国営昭和記念公園 ふれあい広場",
+      "city": "立川市",
+      "price": "3,000円（当日現金支払い）",
+      "target": "小学生",
+      "reservation": "予約サイトから事前予約",
+      "category": "スポーツ・陸上",
+      "description": "走る姿勢、腕の振り方、足の使い方を練習する小学生向け教室。",
+      "official_url": "https://www.showakinen-koen.jp/event/73833/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.showakinen-koen.jp/event/73833/"
+      ]
+    },
+    {
+      "event_id": "evt_20261018_chatgpt_98dc09c193dc",
+      "title": "Park Fitness 初心者バスケットボール教室（10月）",
+      "event_dates": [
+        "2026-10-18"
+      ],
+      "time": "10:00～10:50（小学1～3年生）、11:00～11:50（小学4～6年生）",
+      "venue": "国営昭和記念公園 スポーツエリア 3on3コート",
+      "city": "立川市",
+      "price": "1,000円",
+      "target": "小学1～6年生",
+      "reservation": "予約サイトから事前予約（各回15名）",
+      "category": "スポーツ・バスケットボール",
+      "description": "立川ダイスの講師による初心者向けバスケットボール体験。",
+      "official_url": "https://www.showakinen-koen.jp/event/69877/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.showakinen-koen.jp/event/69877/"
+      ]
+    },
+    {
+      "event_id": "evt_20261018_chatgpt_00bc18295c0a",
+      "title": "Park Fitness チアダンス教室（10月）",
+      "event_dates": [
+        "2026-10-18"
+      ],
+      "time": "11:00～11:50",
+      "venue": "国営昭和記念公園 スポーツエリア 3on3コート",
+      "city": "立川市",
+      "price": "500円",
+      "target": "4歳～小学生",
+      "reservation": "予約サイトから事前予約（定員20名）",
+      "category": "ダンス・スポーツ",
+      "description": "立川ダイス公認チアダンススクールによるチアダンス体験。",
+      "official_url": "https://www.showakinen-koen.jp/event/69883/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.showakinen-koen.jp/event/69883/"
+      ]
+    },
+    {
+      "event_id": "evt_20261018_chatgpt_4fe2a07135ef",
+      "title": "Park Fitness フットサル教室（10月）",
+      "event_dates": [
+        "2026-10-18"
+      ],
+      "time": "親子10:00～10:50、子ども11:00～12:00",
+      "venue": "国営昭和記念公園 フットサルコート",
+      "city": "立川市",
+      "price": "1,000円（当日現金支払い）",
+      "target": "親子：3～6歳と保護者／子ども：小学1～3年生",
+      "reservation": "予約サイトから事前予約",
+      "category": "スポーツ・サッカー",
+      "description": "ボールを使った準備運動やゲーム、基本の動きやボールコントロールを学ぶ。",
+      "official_url": "https://www.showakinen-koen.jp/event/67326/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.showakinen-koen.jp/event/67326/"
+      ]
+    },
+    {
+      "event_id": "evt_20261018_chatgpt_5c18a3afec50",
+      "title": "特別投映ベビープラネタリウム「ほしのおねえさん・おにいさんといっしょ」",
+      "event_dates": [
+        "2026-10-18"
+      ],
+      "time": "10:15～（約30分）",
+      "venue": "府中市郷土の森博物館 プラネタリウム",
+      "city": "府中市",
+      "price": "大人600円、中学生以下300円（博物館入場料別）、4歳未満無料",
+      "target": "小さなお子様とご家族",
+      "reservation": "10/4からWEB事前購入可。当日券あり。",
+      "category": "プラネタリウム",
+      "description": "真っ暗にならない、親子向けの星空・宇宙プログラム。",
+      "official_url": "https://www.fuchu-cpf.or.jp/museum/1000077/1007375/1004093.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.fuchu-cpf.or.jp/museum/1000077/1007375/1004093.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261018_chatgpt_a0b70245f22e",
+      "title": "かんたん笛づくり教室",
+      "event_dates": [
+        "2026-10-18"
+      ],
+      "time": "10:00～12:00、13:00～15:00",
+      "venue": "府中市郷土の森博物館 ふるさと体験館",
+      "city": "府中市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "工作・伝統体験",
+      "description": "竹を使った笛づくり教室。",
+      "official_url": "https://www.fuchu-cpf.or.jp/museum/event/1000080/index.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.fuchu-cpf.or.jp/museum/event/1000080/index.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261017_chatgpt_055052966a07",
+      "title": "府中の森芸術劇場開館35周年記念 米山浩子パイプオルガン・レクチャーコンサート",
+      "event_dates": [
+        "2026-10-17"
+      ],
+      "time": "14:00開演",
+      "venue": "府中の森芸術劇場 ウィーンホール",
+      "city": "府中市",
+      "price": "全席指定3,000円",
+      "target": "小学生以上（未就学児入場不可）",
+      "reservation": "公式公演一覧では予定枚数終了",
+      "category": "音楽・コンサート",
+      "description": "パイプオルガンの仕組みを学ぶレクチャーとJ.S.バッハ作品などの演奏。",
+      "official_url": "https://www.fuchu-cpf.or.jp/theater/1000331/recommend/1007939.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.fuchu-cpf.or.jp/theater/1000331/recommend/1007939.html",
+        "https://www.fuchu-cpf.or.jp/theater/1000331/recommend/index.html"
+      ]
+    }
+  ]
+}
