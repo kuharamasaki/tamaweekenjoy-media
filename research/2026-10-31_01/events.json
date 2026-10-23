@@ -1,0 +1,655 @@
+{
+  "period": "2026-10-31_01",
+  "generated_at": "2026-10-24T08:29:33.858+09:00",
+  "events": [
+    {
+      "event_id": "evt_20261031_chatgpt_ef0e668f8edb",
+      "title": "第17回 けやきフェスタ2026 よさこい in 府中",
+      "event_dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "time": "10/31 12:00～16:00、11/1 10:40～17:00",
+      "venue": "東府中 平和通り会場、けやき並木通り ほか",
+      "city": "府中市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "祭り・ステージ",
+      "description": "府中駅周辺の商店会などが関わるよさこい祭り。けやき並木などで演舞を実施。",
+      "official_url": "https://machidukuri-fuchu.jp/event/18644/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://machidukuri-fuchu.jp/event/18644/"
+      ]
+    },
+    {
+      "event_id": "evt_20261101_chatgpt_6403f3ebd576",
+      "title": "第43回国分寺まつり（令和8年度）",
+      "event_dates": [
+        "2026-11-01"
+      ],
+      "time": "9:30～15:30（荒天中止）",
+      "venue": "都立武蔵国分寺公園",
+      "city": "国分寺市",
+      "price": "－",
+      "target": "どなたでも",
+      "reservation": "－",
+      "category": "地域祭り",
+      "description": "物産直売、市民の模擬店、パレード、ステージなどを行う市内最大のイベント。",
+      "official_url": "https://www.city.kokubunji.tokyo.jp/culture-sports-tourism/culture/1013875/1032903.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.kokubunji.tokyo.jp/culture-sports-tourism/culture/1013875/1032903.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_deb5a23b1a2d",
+      "title": "緑町中央商店会ハロウィンまつり",
+      "event_dates": [
+        "2026-10-31"
+      ],
+      "time": "11:00～15:30（荒天中止）",
+      "venue": "株式会社アイム駐車場（緑町4-11-15）",
+      "city": "小金井市",
+      "price": "－",
+      "target": "大人・子ども",
+      "reservation": "当日スタンプラリー台紙配布。参加賞は先着順。",
+      "category": "ハロウィン・地域祭り",
+      "description": "仮装して参加する商店街スタンプラリーや地域の出店、飲食販売など。",
+      "official_url": "https://koganei-s.or.jp/midorichochuoshotenkai-halloween-fes/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://koganei-s.or.jp/midorichochuoshotenkai-halloween-fes/"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_1188bc2010f6",
+      "title": "消費者ルーム 秋まつり",
+      "event_dates": [
+        "2026-10-31"
+      ],
+      "time": "10:00～15:00",
+      "venue": "上之原会館 消費者ルーム",
+      "city": "小金井市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "地域祭り・リユース",
+      "description": "食器リユース市、鉢花販売、防災食の紹介など。子ども向けスーパーボールくじも実施。",
+      "official_url": "https://www.city.koganei.lg.jp/kurashi/445/kakusyuzigyou/shouhisharoomevent.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.koganei.lg.jp/kurashi/445/kakusyuzigyou/shouhisharoomevent.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_7e85b5575819",
+      "title": "おむすびハロウィンミニフェスタ",
+      "event_dates": [
+        "2026-10-31"
+      ],
+      "time": "13:30～16:00",
+      "venue": "おむすびハウス三鷹 庭先（下連雀1-10-20）",
+      "city": "三鷹市",
+      "price": "－",
+      "target": "大人・子ども",
+      "reservation": "－",
+      "category": "ハロウィン・地域交流",
+      "description": "フリーマーケット、ミニコンサート、ハロウィン撮影パネルなど。仮装歓迎。",
+      "official_url": "https://kanko.mitaka.ne.jp/docs/2026092400014/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://kanko.mitaka.ne.jp/docs/2026092400014/"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_f1f70f3312ae",
+      "title": "第19回ムーフェスタ",
+      "event_dates": [
+        "2026-10-31"
+      ],
+      "time": "13:30～16:00ごろ",
+      "venue": "吉祥寺駅北口 平和通り",
+      "city": "武蔵野市",
+      "price": "無料",
+      "target": "子どもから大人まで",
+      "reservation": "－",
+      "category": "防災・体験",
+      "description": "消防音楽隊パレード、消防車展示、防災VR車・起震車・消火器訓練、子ども用防火衣体験。",
+      "official_url": "https://www.tfd.metro.tokyo.lg.jp/fs/musasino/page_00050.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.tfd.metro.tokyo.lg.jp/fs/musasino/page_00050.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_acaebf22f9ac",
+      "title": "武蔵野の森ハロウィンウォーキング",
+      "event_dates": [
+        "2026-10-31"
+      ],
+      "time": "13:00～15:00（12:30受付）",
+      "venue": "味の素スタジアム あじペン広場・武蔵野の森公園",
+      "city": "調布市",
+      "price": "50円",
+      "target": "どなたでも（小学生以下は保護者同伴）",
+      "reservation": "定員100名程度、公式ページで満員と案内。",
+      "category": "スポーツ・ハロウィン",
+      "description": "仮装して味の素スタジアムと武蔵野の森公園を歩く健康ウォーキング。",
+      "official_url": "https://ajinomotostadium.com/schedule/2026/1031_16338.php",
+      "image_url": "",
+      "evidence_urls": [
+        "https://ajinomotostadium.com/schedule/2026/1031_16338.php"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_fbe35e7a65d0",
+      "title": "ことばらんど575ラボ ハロウィン＋俳句でオリジナルおかし袋をつくろう！",
+      "event_dates": [
+        "2026-10-31"
+      ],
+      "time": "9:00～12:00",
+      "venue": "町田市生涯学習センター6階美術工芸室、芹ヶ谷公園",
+      "city": "町田市",
+      "price": "無料",
+      "target": "小学1～6年生",
+      "reservation": "10/1正午から町田市民文学館で電話受付。定員20名。",
+      "category": "工作・文学",
+      "description": "芹ヶ谷公園で秋の季語を見つけ、俳句を詠み、ハロウィンのおかし袋を制作。",
+      "official_url": "https://www.city.machida.tokyo.jp/bunka/bunka_geijutsu/cul/cul08Literature/bungakuevent/bungakueventchild/HALLOWEEN.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.machida.tokyo.jp/bunka/bunka_geijutsu/cul/cul08Literature/bungakuevent/bungakueventchild/HALLOWEEN.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_d6096a077bbe",
+      "title": "ハロウィンイベント『ハロウィンキッズパレード』",
+      "event_dates": [
+        "2026-10-31"
+      ],
+      "time": "11:30～、13:30～、15:00～",
+      "venue": "イーアス高尾 1Fそよかぜ広場",
+      "city": "八王子市",
+      "price": "無料",
+      "target": "小学生以下（子ども1人につき保護者1人同伴可）",
+      "reservation": "10:30から整理券配布。各回30名、計90名。",
+      "category": "ハロウィン・パレード",
+      "description": "楽器隊と一緒に館内を仮装パレード。終了後にミニコンサート。",
+      "official_url": "https://iiastakao.jp/event/detail.html?act=63992",
+      "image_url": "",
+      "evidence_urls": [
+        "https://iiastakao.jp/event/detail.html?act=63992"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_ea55c01a4f39",
+      "title": "「どこでもえどはく」@イーアス高尾",
+      "event_dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "time": "11:00～19:00",
+      "venue": "イーアス高尾 1Fこもれび広場",
+      "city": "八王子市",
+      "price": "無料",
+      "target": "子どもから大人まで",
+      "reservation": "－",
+      "category": "歴史・体験",
+      "description": "ジャンボトントン相撲、江戸ぬり絵、江戸のパフォーマンス、屋台展示、クイズ、浮世絵シアターなど。",
+      "official_url": "https://iiastakao.jp/event/detail.html?act=64015",
+      "image_url": "",
+      "evidence_urls": [
+        "https://iiastakao.jp/event/detail.html?act=64015"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_69f4f828d8dd",
+      "title": "東京蚤の市’26 AUTUMN",
+      "event_dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "time": "9:30～16:30",
+      "venue": "国営昭和記念公園 みどりの文化ゾーン ゆめひろば",
+      "city": "立川市",
+      "price": "前売1,800円・当日2,300円／中学生以下無料（保護者同伴）",
+      "target": "－",
+      "reservation": "前売券・当日券あり。",
+      "category": "マーケット・ステージ",
+      "description": "古道具、古本、クラフト、食、キッズマルシェ、ワークショップ、音楽・大道芸などの大型蚤の市。",
+      "official_url": "https://tokyonominoichi.com/2026_autumn/outline/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://tokyonominoichi.com/2026_autumn/outline/"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_22281f7c7ba2",
+      "title": "喫茶来 TOKOROZAWA TEA FES 2026",
+      "event_dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "time": "10/31 11:00～17:00、11/1 10:30～16:30",
+      "venue": "ところざわサクラタウン 中央広場・角川武蔵野ミュージアム3階・SAKU-Lab",
+      "city": "所沢市",
+      "price": "入場無料（一部有料）",
+      "target": "－",
+      "reservation": "－",
+      "category": "お茶・マルシェ",
+      "description": "各地のお茶専門店が集まるイベント。試飲、ミニセミナー、ワークショップなど。",
+      "official_url": "https://tokorozawa-sakuratown.com/event_categories/kissako2026.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://tokorozawa-sakuratown.com/event_categories/kissako2026.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261101_chatgpt_eb219c21ca0f",
+      "title": "プレイス・フェスタ2026 秋の探究「巨大なものを建てる」～新聞紙でつくる構造体～",
+      "event_dates": [
+        "2026-11-01"
+      ],
+      "time": "10:00～12:00",
+      "venue": "武蔵野プレイス 4階フォーラム",
+      "city": "武蔵野市",
+      "price": "無料",
+      "target": "小学生",
+      "reservation": "事前申込・抽選。市内在住・在学を優先。",
+      "category": "工作・科学",
+      "description": "新聞紙を棒状に丸めてつなぎ、みんなで巨大な構造体をつくる体験。",
+      "official_url": "https://www.musashino.or.jp/placefesta/1001947/1009859.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.musashino.or.jp/placefesta/1001947/1009859.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_d0ca221c32ef",
+      "title": "プレイス・フェスタ2026 まめいすのかくれんぼ ～15周年ありがとうラリー～",
+      "event_dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "time": "9:30～22:00",
+      "venue": "武蔵野プレイス 館内各所",
+      "city": "武蔵野市",
+      "price": "無料",
+      "target": "－",
+      "reservation": "期間中自由参加。館内でヒントマップを配布。",
+      "category": "館内ラリー",
+      "description": "館内に隠された数字付きのまめいすを探し、条件達成で記念品がもらえるラリー。",
+      "official_url": "https://www.musashino.or.jp/placefesta/1001947/1009862.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.musashino.or.jp/placefesta/1001947/1009862.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_2cd66c816f19",
+      "title": "ぶたいうらのたんけん with妖精大図鑑",
+      "event_dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "time": "10:00～11:00、13:00～14:00、16:00～17:00",
+      "venue": "吉祥寺シアター 劇場",
+      "city": "武蔵野市",
+      "price": "－",
+      "target": "小学生～高校生相当年齢",
+      "reservation": "事前申込必要。公式ページ記載の締切は10/31。",
+      "category": "劇場・体験",
+      "description": "舞台の裏側や劇場スタッフの仕事を見学するバックステージツアー。",
+      "official_url": "https://www.musashino.or.jp/k_theatre/1002068/1002069/1009794.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.musashino.or.jp/k_theatre/1002068/1002069/1009794.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_b374c8b1fcbc",
+      "title": "ハロウィンコンサート『映画 えんとつ町のプペル ～約束の時計台～』シネマ・シンフォニー",
+      "event_dates": [
+        "2026-10-31"
+      ],
+      "time": "18:30開演（17:30開場）",
+      "venue": "武蔵野市民文化会館 大ホール",
+      "city": "武蔵野市",
+      "price": "S席 大人9,800円・中学生以下6,800円（ほか席種あり）",
+      "target": "幼児・小学生・中高生・大人",
+      "reservation": "8/2からチケット発売。",
+      "category": "映画・音楽",
+      "description": "映画上映に合わせて群馬交響楽団が劇伴を生演奏するコンサート。",
+      "official_url": "https://www.musashino.or.jp/bunka/1002092/1009649.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.musashino.or.jp/bunka/1002092/1009649.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_21eae671e74b",
+      "title": "南インドの聖なる歌声",
+      "event_dates": [
+        "2026-10-31"
+      ],
+      "time": "16:00開演（15:15開場）",
+      "venue": "武蔵野市民文化会館 小ホール",
+      "city": "武蔵野市",
+      "price": "一般5,500円・25歳以下5,000円",
+      "target": "小学生以上",
+      "reservation": "7/4からチケット発売。",
+      "category": "音楽",
+      "description": "南インドのカルナータカ音楽を歌と打楽器で紹介するコンサート。",
+      "official_url": "https://www.musashino.or.jp/bunka/1002092/1009429.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.musashino.or.jp/bunka/1002092/1009429.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261101_chatgpt_a0d2eddc6df7",
+      "title": "FUCHU de UCHU 謎解きミッション in 郷土の森博物館",
+      "event_dates": [
+        "2026-11-01"
+      ],
+      "time": "10:00～12:30、13:30～16:00",
+      "venue": "府中市郷土の森博物館（受付前集合）",
+      "city": "府中市",
+      "price": "無料",
+      "target": "府中市内在住・在学の小学3～6年生と保護者",
+      "reservation": "10/1～10/15に事前申込受付。申込期間終了。",
+      "category": "宇宙・謎解き",
+      "description": "宇宙・天文をテーマにした親子謎解きラリーと天文スタッフの解説。",
+      "official_url": "https://www.fuchu-cpf.or.jp/museum/event/1008175.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.fuchu-cpf.or.jp/museum/event/1008175.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261101_chatgpt_6236799d2df2",
+      "title": "百人一首カルタ取り体験会（東部地域文化祭）",
+      "event_dates": [
+        "2026-11-01"
+      ],
+      "time": "13:30～16:00",
+      "venue": "調布市東部公民館 和室",
+      "city": "調布市",
+      "price": "無料",
+      "target": "－",
+      "reservation": "申込不要、当日直接会場へ。",
+      "category": "伝統文化・体験",
+      "description": "東部百人一首の会によるカルタ取り体験会。",
+      "official_url": "https://www.city.chofu.lg.jp/100060/p059310.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.chofu.lg.jp/100060/p059310.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261101_chatgpt_c2075bc3b7d2",
+      "title": "公開学習会「身近なくらしに役立つ、AIはみんなのアシスタント」（東部地域文化祭）",
+      "event_dates": [
+        "2026-11-01"
+      ],
+      "time": "10:00～11:30",
+      "venue": "東部児童館 遊戯室",
+      "city": "調布市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "科学・デジタル",
+      "description": "スマートフォンで生成AIに触れ、暮らしへの活用法を学ぶ公開学習会。",
+      "official_url": "https://www.city.chofu.lg.jp/100060/p059304.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.chofu.lg.jp/100060/p059304.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_0b161086c154",
+      "title": "東部地域文化祭 オープニングイベント",
+      "event_dates": [
+        "2026-10-31"
+      ],
+      "time": "13:30～15:00",
+      "venue": "東部児童館 遊戯室",
+      "city": "調布市",
+      "price": "－",
+      "target": "－",
+      "reservation": "入場自由。",
+      "category": "地域文化・ステージ",
+      "description": "高校合唱部、中学校ダンス部、地域団体のマジックによるオープニングステージ。",
+      "official_url": "https://www.city.chofu.lg.jp/100060/p059302.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.chofu.lg.jp/100060/p059302.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261101_chatgpt_83dd4d578a39",
+      "title": "Park Fitness バランスボールヨガ（11月）",
+      "event_dates": [
+        "2026-11-01"
+      ],
+      "time": "10:30～11:30",
+      "venue": "国営昭和記念公園 ふれあい広場",
+      "city": "立川市",
+      "price": "1,500円",
+      "target": "－",
+      "reservation": "予約サイトから事前予約。定員26名。雨天中止。",
+      "category": "スポーツ・ヨガ",
+      "description": "バランスボールを使って体をほぐし、屋外でヨガを楽しむプログラム。",
+      "official_url": "https://www.showakinen-koen.jp/event/51230/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.showakinen-koen.jp/event/51230/"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_b8acfbd7ee68",
+      "title": "第49回上水南公民館まつり",
+      "event_dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "time": "10/31 10:00～16:00、11/1 10:00～15:00",
+      "venue": "上水南公民館",
+      "city": "小平市",
+      "price": "－",
+      "target": "－",
+      "reservation": "各プログラムにより異なる（音楽会は事前申込）。",
+      "category": "公民館祭り",
+      "description": "模擬店、児童作品、バルーンアート、ボッチャ体験、よさこい、吹奏楽など。",
+      "official_url": "https://www.city.kodaira.tokyo.jp/shihou/130/130777.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.kodaira.tokyo.jp/shihou/130/130777.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_41283aebf9ce",
+      "title": "上水南公民館まつり音楽会 ミュージックベルコンサート",
+      "event_dates": [
+        "2026-10-31"
+      ],
+      "time": "11:00～12:00（10:30開場）",
+      "venue": "上水南公民館 ホール",
+      "city": "小平市",
+      "price": "無料",
+      "target": "子ども・大人",
+      "reservation": "9/24から電話で事前申込、先着50名。",
+      "category": "音楽・親子",
+      "description": "童謡やアニメの曲をミュージックベルで演奏し、リトミックも体験できる音楽会。",
+      "official_url": "https://www.city.kodaira.tokyo.jp/event/129/129951.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.kodaira.tokyo.jp/event/129/129951.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_06289bc6e45c",
+      "title": "おひさまマーケット",
+      "event_dates": [
+        "2026-10-31"
+      ],
+      "time": "14:00～16:00（受付15:30まで）",
+      "venue": "小平市子ども家庭支援センター",
+      "city": "小平市",
+      "price": "子ども服などを無料譲渡",
+      "target": "－",
+      "reservation": "－",
+      "category": "リユース・地域交流",
+      "description": "市民から寄付された子ども服などを無料で譲るマーケット（点数制限あり）。",
+      "official_url": "https://www.city.kodaira.tokyo.jp/shihou/130/130662.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.kodaira.tokyo.jp/shihou/130/130662.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_29bf24995227",
+      "title": "市民自由講座「川口学 秋の里山の自然を知ろう、楽しもう！」",
+      "event_dates": [
+        "2026-10-31"
+      ],
+      "time": "17:00～18:30",
+      "venue": "八王子市生涯学習センター川口分館 視聴覚室",
+      "city": "八王子市",
+      "price": "400円（全2回分）",
+      "target": "どなたでも",
+      "reservation": "8/16から電話・窓口・メールで先着受付。全2回講座の2回目。",
+      "category": "自然・環境学習",
+      "description": "里山の植物や自然の魅力を学ぶ講座。10/17・10/31の全2回。",
+      "official_url": "https://www.city.hachioji.tokyo.jp/event/007/p037724.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.hachioji.tokyo.jp/event/007/p037724.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_f771e85c39e4",
+      "title": "プレイス・フェスタ2026 オールナイトプレイス",
+      "event_dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "time": "10/31 21:45～11/1 7:30（21:15受付）",
+      "venue": "武蔵野プレイス 地下2階～4階",
+      "city": "武蔵野市",
+      "price": "－",
+      "target": "中学生以上（中学生は保護者同伴、未成年者は保護者同意書が必要）",
+      "reservation": "事前申込・抽選。参加者全員の誓約書等が必要。",
+      "category": "文化施設・特別開館",
+      "description": "武蔵野プレイス開館15周年を記念した夜間特別開館。ジャズ、怪談、防災食づくりなど。",
+      "official_url": "https://www.musashino.or.jp/placefesta/1001947/1009863.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.musashino.or.jp/placefesta/1001947/1009863.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_d0cbc6179c27",
+      "title": "東京大茶会2026（浜離宮恩賜庭園）",
+      "event_dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "time": "10:00～17:30",
+      "venue": "浜離宮恩賜庭園",
+      "city": "中央区",
+      "price": "入園料 一般300円・小学生以下無料／茶席等は別料金",
+      "target": "どなたでも",
+      "reservation": "茶席・野点の参加券は当日販売（事前応募なし）。",
+      "category": "伝統文化・茶道",
+      "description": "さまざまな流派の茶席や野点を楽しむ大規模な茶会。",
+      "official_url": "https://www.artscouncil-tokyo.jp/news/29600/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.artscouncil-tokyo.jp/news/29600/"
+      ]
+    },
+    {
+      "event_id": "evt_20261101_chatgpt_e442994eb0da",
+      "title": "コロコロ転がる不思議な形「ツーサークルローラー」を作ろう！",
+      "event_dates": [
+        "2026-11-01"
+      ],
+      "time": "－",
+      "venue": "多摩六都科学館",
+      "city": "西東京市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "科学・工作",
+      "description": "不思議な形のツーサークルローラーを作る体験プログラム。",
+      "official_url": "https://tamarokuto.or.jp/calendar/index.html?c=event&calendar=2026-11-01&month=2032-01",
+      "image_url": "",
+      "evidence_urls": [
+        "https://tamarokuto.or.jp/calendar/index.html?c=event&calendar=2026-11-01&month=2032-01"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_0c55047151b6",
+      "title": "まちだハロウィンウォーク2026",
+      "event_dates": [
+        "2026-10-31"
+      ],
+      "time": "－",
+      "venue": "町田シバヒロ",
+      "city": "町田市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "ハロウィン・街歩き",
+      "description": "－",
+      "official_url": "https://www.city.machida.tokyo.jp/event/event-info/detail/01M3MQFP24K6VEY0VY9FM8JXR7.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.machida.tokyo.jp/event/event-info/detail/01M3MQFP24K6VEY0VY9FM8JXR7.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_5136b7748797",
+      "title": "HALLOWEEN EVENT（ルミネ町田）",
+      "event_dates": [
+        "2026-10-31"
+      ],
+      "time": "－",
+      "venue": "ルミネ町田",
+      "city": "町田市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "ハロウィン・商業施設",
+      "description": "－",
+      "official_url": "https://www.city.machida.tokyo.jp/event/event-info/detail/01M4RPC2RHEYK3M8WVEN36X1XF.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.machida.tokyo.jp/event/event-info/detail/01M4RPC2RHEYK3M8WVEN36X1XF.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261031_chatgpt_990af1590e6b",
+      "title": "きみが館長！動物の博物館を作ろう ～バーチャル空間で、くらべて・ならべて・つたえてみよう～",
+      "event_dates": [
+        "2026-10-31"
+      ],
+      "time": "9:00～16:00（8:30受付開始）",
+      "venue": "国立科学博物館 上野本館",
+      "city": "台東区",
+      "price": "無料",
+      "target": "小学1年生～中学3年生",
+      "reservation": "要事前申込。各回30組、応募多数時抽選。",
+      "category": "科学・XR体験",
+      "description": "仮想空間に動植物を配置し、自分だけの展示を作りながら自然科学とXR技術を学ぶワークショップ。",
+      "official_url": "https://www.nttdata.com/jp/ja/trends/event/2026/103101/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.nttdata.com/jp/ja/trends/event/2026/103101/"
+      ]
+    }
+  ]
+}
