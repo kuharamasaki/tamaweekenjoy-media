@@ -216,7 +216,7 @@
       "city": "立川市",
       "price": "イベント参加無料（夜間入園等は別途の場合あり）",
       "target": "－",
-      "reservation": "公式一覧に予約終了と記載。雨天中止",
+      "reservation": "－",
       "category": "夜間イベント",
       "description": "秋の夜散歩の11月7日限定のシャボン玉演出。",
       "official_url": "https://www.showakinen-koen.jp/event/page/2/?ai1ec=tag_ids~58",
@@ -246,43 +246,43 @@
       ]
     },
     {
-      "event_id": "evt_20261108_chatgpt_6efff7f1f38d",
-      "title": "はたらくくるま2026 in 府中",
+      "event_id": "evt_20261108_chatgpt_dbe4b278cfbe",
+      "title": "はたらくくるま in 府中けやき並木 2026",
       "event_dates": [
         "2026-11-08"
       ],
-      "time": "－",
-      "venue": "府中市内（会場詳細は公式ページ参照）",
+      "time": "12:30～16:30",
+      "venue": "府中駅前けやき並木通り",
       "city": "府中市",
       "price": "－",
       "target": "－",
       "reservation": "－",
       "category": "乗り物・地域イベント",
-      "description": "働く車をテーマにしたまちづくり府中のイベント。",
-      "official_url": "https://machidukuri-fuchu.jp/event/2026/11/08/2026-11-08-hatarakukuruma/",
+      "description": "警察・消防・自衛隊・建設・清掃業の車両展示と、子ども向け体験コーナー。小雨決行。",
+      "official_url": "https://machidukuri-fuchu.jp/hataraku_kuruma/",
       "image_url": "",
       "evidence_urls": [
-        "https://machidukuri-fuchu.jp/event/2026/11/08/2026-11-08-hatarakukuruma/"
+        "https://machidukuri-fuchu.jp/hataraku_kuruma/"
       ]
     },
     {
-      "event_id": "evt_20261107_chatgpt_ac8095e4972a",
+      "event_id": "evt_20261107_chatgpt_1cd3579a2cd5",
       "title": "大國魂神社 酉の市（一の酉）",
       "event_dates": [
         "2026-11-07"
       ],
-      "time": "－",
+      "time": "開門6:30～22:00／熊手市・露店9:00～21:00頃／里神楽15:00・17:00・19:00",
       "venue": "大國魂神社",
       "city": "府中市",
       "price": "参拝無料（授与品等有料）",
       "target": "どなたでも",
       "reservation": "申込不要",
       "category": "伝統行事・祭り",
-      "description": "熊手などの縁起物が並ぶ酉の市。",
-      "official_url": "https://www.ookunitamajinja.or.jp/info/2026/10/2026tori/",
+      "description": "熊手商や露店が並ぶ一の酉。神符熊手の頒布、江戸の里神楽の奉納も実施。",
+      "official_url": "https://www.ookunitamajinja.or.jp/wp/info/192.html",
       "image_url": "",
       "evidence_urls": [
-        "https://www.ookunitamajinja.or.jp/info/2026/10/2026tori/"
+        "https://www.ookunitamajinja.or.jp/wp/info/192.html"
       ]
     },
     {
@@ -292,7 +292,7 @@
         "2026-11-07",
         "2026-11-08"
       ],
-      "time": "－",
+      "time": "両日10:00～16:00",
       "venue": "東村山市役所周辺",
       "city": "東村山市",
       "price": "－",
@@ -454,8 +454,8 @@
         "2026-11-07",
         "2026-11-08"
       ],
-      "time": "－",
-      "venue": "所沢航空記念公園",
+      "time": "両日10:00～16:00",
+      "venue": "所沢航空記念公園 航空発祥記念館前広場",
       "city": "所沢市",
       "price": "－",
       "target": "－",
@@ -481,7 +481,7 @@
       "target": "親子など",
       "reservation": "－",
       "category": "スポーツ体験",
-      "description": "多様なスポーツを体験し、体を動かす楽しさを知る公園イベント。",
+      "description": "スポーツ体験を一挙に実施する公園イベント。親子DE忍者教室などのプログラムも同日開催。",
       "official_url": "https://musashinoparks.com/event/event-6974/",
       "image_url": "",
       "evidence_urls": [
@@ -571,18 +571,19 @@
     },
     {
       "event_id": "evt_20261108_chatgpt_a88f10ad2dfa",
-      "title": "多摩六都科学館 北斗七星をさがそう",
+      "title": "多摩六都科学館 北斗七星と冬の夜空を作ろう！",
       "event_dates": [
+        "2026-11-07",
         "2026-11-08"
       ],
-      "time": "－",
+      "time": "11:00～11:45、13:30～14:15、14:45～15:30",
       "venue": "多摩六都科学館",
       "city": "西東京市",
       "price": "－",
-      "target": "－",
+      "target": "小学4年生～大人",
       "reservation": "－",
-      "category": "天文・科学",
-      "description": "北斗七星をテーマにした科学館の当日プログラム。",
+      "category": "天文・工作",
+      "description": "星までの距離や明るさ、プラネタリウムの仕組みを考えながら冬の夜空を作る。各回12人。",
       "official_url": "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-11-08&info=3700",
       "image_url": "",
       "evidence_urls": [
@@ -594,16 +595,17 @@
       "event_id": "evt_20261108_chatgpt_96c8033d4342",
       "title": "多摩六都科学館 ザクロ石を観察しよう",
       "event_dates": [
+        "2026-11-07",
         "2026-11-08"
       ],
-      "time": "－",
+      "time": "11:00～11:45、12:00～12:45、14:00～14:45、15:00～15:45（随時入替）",
       "venue": "多摩六都科学館",
       "city": "西東京市",
       "price": "－",
       "target": "－",
       "reservation": "－",
       "category": "地学・観察",
-      "description": "ザクロ石を観察する科学館プログラム。",
+      "description": "ガーネットとも呼ばれる鉱物・ザクロ石の色や形を観察する。",
       "official_url": "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-11-08&info=3672",
       "image_url": "",
       "evidence_urls": [
@@ -615,16 +617,17 @@
       "event_id": "evt_20261108_chatgpt_4ee846e330d4",
       "title": "多摩六都科学館 みんなで実験！しくみラボ",
       "event_dates": [
+        "2026-11-07",
         "2026-11-08"
       ],
-      "time": "－",
+      "time": "11:00～12:00、13:30～15:30",
       "venue": "多摩六都科学館",
       "city": "西東京市",
       "price": "－",
       "target": "－",
       "reservation": "－",
       "category": "科学実験",
-      "description": "実験を通じて仕組みを学ぶ科学館プログラム。",
+      "description": "11～12月のテーマは静電気。スタッフと一緒に実験アイテムを試す。",
       "official_url": "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-11-08&info=3699",
       "image_url": "",
       "evidence_urls": [
@@ -634,15 +637,15 @@
     },
     {
       "event_id": "evt_20261108_chatgpt_e201bdf05120",
-      "title": "多摩六都科学館 キッズプラネタリウム「ペガロク」",
+      "title": "多摩六都科学館 キッズプラネタリウム「ペガロク きまぐれ宇宙旅行！ぐるぐる月旅行編」",
       "event_dates": [
         "2026-11-08"
       ],
-      "time": "－",
+      "time": "10:30～（約35分）",
       "venue": "多摩六都科学館 プラネタリウム",
       "city": "西東京市",
       "price": "－",
-      "target": "子ども向け",
+      "target": "どなたでも（子どもは保護者と観覧）",
       "reservation": "－",
       "category": "プラネタリウム",
       "description": "子ども向けのプラネタリウム番組。",
@@ -655,11 +658,11 @@
     },
     {
       "event_id": "evt_20261108_chatgpt_76fc474fe8df",
-      "title": "多摩六都科学館 大型映像「恐竜新世界」",
+      "title": "多摩六都科学館 大型映像「恐竜新世界～絶滅の新たなるストーリー～」",
       "event_dates": [
         "2026-11-08"
       ],
-      "time": "－",
+      "time": "11:50～（約30分）",
       "venue": "多摩六都科学館 サイエンスエッグ",
       "city": "西東京市",
       "price": "－",
@@ -676,11 +679,11 @@
     },
     {
       "event_id": "evt_20261108_chatgpt_fe363d3bd031",
-      "title": "多摩六都科学館 生解説プラネタリウム「宇宙クルーズ」",
+      "title": "多摩六都科学館 全編生解説プラネタリウム「宇宙クルーズ2026〈追跡！ボイジャー1号〉」",
       "event_dates": [
         "2026-11-08"
       ],
-      "time": "－",
+      "time": "13:10～、15:50～（約45分）",
       "venue": "多摩六都科学館 プラネタリウム",
       "city": "西東京市",
       "price": "－",
@@ -697,23 +700,64 @@
     },
     {
       "event_id": "evt_20261108_chatgpt_638c5e431701",
-      "title": "多摩六都科学館 プラネタリウム「VOYAGER」",
+      "title": "多摩六都科学館 大型映像「VOYAGER／ボイジャー 終わりなき旅」",
       "event_dates": [
         "2026-11-08"
       ],
-      "time": "－",
-      "venue": "多摩六都科学館 プラネタリウム",
+      "time": "14:30～（約30分）",
+      "venue": "多摩六都科学館 サイエンスエッグ",
       "city": "西東京市",
       "price": "－",
       "target": "－",
       "reservation": "－",
-      "category": "プラネタリウム",
+      "category": "大型映像・宇宙",
       "description": "宇宙をテーマにしたプラネタリウム番組。",
       "official_url": "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-11-08&info=3685",
       "image_url": "",
       "evidence_urls": [
         "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-11-08&info=3685",
         "https://www.tamarokuto.or.jp/calendar/index.html?c=event&calendar=2026-11-08"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_185f32a824d0",
+      "title": "府中の森芸術劇場 どりーむコンサートVol.135 哀愁の調べと煌めきのシンフォニー",
+      "event_dates": [
+        "2026-11-07"
+      ],
+      "time": "14:00開演",
+      "venue": "府中の森芸術劇場 どりーむホール",
+      "city": "府中市",
+      "price": "S席6,000円／A席5,000円／青少年席2,000円（22歳以下）",
+      "target": "小学生以上（未就学児入場不可）",
+      "reservation": "チケット販売中（残席は公式サイト参照）",
+      "category": "クラシック音楽",
+      "description": "東京都交響楽団によるベートーヴェン、ブルッフ、モーツァルトの作品を演奏するコンサート。",
+      "official_url": "https://www.fuchu-cpf.or.jp/theater/1000331/recommend/1007742.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.fuchu-cpf.or.jp/theater/1000331/recommend/1007742.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_37464b7435c1",
+      "title": "キーウ・クラシック・バレエ チャイコフスキー夢の3大バレエ名場面集",
+      "event_dates": [
+        "2026-11-07"
+      ],
+      "time": "14:00開演",
+      "venue": "ルネこだいら 大ホール",
+      "city": "小平市",
+      "price": "全席指定 S席5,500円／A席4,500円",
+      "target": "4歳以上",
+      "reservation": "チケット販売（販売状況は公式ページ参照）",
+      "category": "バレエ・舞台",
+      "description": "『くるみ割り人形』『白鳥の湖』『眠れる森の美女』の名場面を上演。演奏は録音音源。",
+      "official_url": "https://www.runekodaira.jp/events/d01538.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.runekodaira.jp/events/d01538.html",
+        "https://www.runekodaira.jp/detail/t00396.html"
       ]
     }
   ]
