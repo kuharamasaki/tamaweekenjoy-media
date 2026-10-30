@@ -1,6 +1,6 @@
 {
   "period": "2026-11-07_08",
-  "generated_at": "2026-10-31T08:30:18+09:00",
+  "generated_at": "2026-10-31T08:48:21+09:00",
   "events": [
     {
       "event_id": "evt_20261107_chatgpt_d87bcf459549",
@@ -758,6 +758,28 @@
       "evidence_urls": [
         "https://www.runekodaira.jp/events/d01538.html",
         "https://www.runekodaira.jp/detail/t00396.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_a2a41765b803",
+      "title": "第4回こがねい産業祭り・第77回小金井市農業祭",
+      "event_dates": [
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "time": "7日10:00～16:00／8日10:00～14:30（宮地楽器ホールの催し）",
+      "venue": "小金井 宮地楽器ホール 大・小ホール／武蔵小金井駅南口フェスティバルコート",
+      "city": "小金井市",
+      "price": "無料（物販・縁日等の料金は－）",
+      "target": "－",
+      "reservation": "－",
+      "category": "産業祭・農業祭・ステージ",
+      "description": "市の産業・農業を紹介する催し。宮地楽器ホールでの催しのほか、フェスティバルコートで縁日・ステージ企画を実施。",
+      "official_url": "https://koganei-civic-center.jp/calendar/2026/11/075978.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://koganei-civic-center.jp/calendar/2026/11/075978.html",
+        "https://koganei-kanko.jp/request/14991/"
       ]
     }
   ]
