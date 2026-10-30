@@ -1,0 +1,720 @@
+{
+  "period": "2026-11-07_08",
+  "generated_at": "2026-10-31T08:30:18+09:00",
+  "events": [
+    {
+      "event_id": "evt_20261107_chatgpt_d87bcf459549",
+      "title": "TOKYOウォーク2026 第1回 国分寺ぐるっと発見！鉄道＆史跡ウォーク",
+      "event_dates": [
+        "2026-11-07"
+      ],
+      "time": "ロング受付8:30～9:30／ショート受付10:00～11:00、ゴール14:45まで",
+      "venue": "武蔵国分寺公園 円形広場",
+      "city": "国分寺市",
+      "price": "当日：国分寺・国立・府中市民800円、一般大人1,500円、小学生以下無料",
+      "target": "どなたでも（小学生以下は保護者同伴）",
+      "reservation": "事前申込10月28日締切済み。当日受付可（定員状況による）",
+      "category": "ウォーキング・地域探訪",
+      "description": "5km・15kmの史跡ウォーク。会場ではフリースロー、グラウンドゴルフ、ふわふわ遊具などの無料体験も実施。",
+      "official_url": "https://www.tokyo-walk.jp/ip_walk.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.tokyo-walk.jp/ip_walk.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_a9e3a49938fe",
+      "title": "小金井公園 天体観測「こがねのほしがたり」・秋彩ランタン作り",
+      "event_dates": [
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "time": "天体観測：両日17:30～19:00／ランタン作り：7日17:30～20:30",
+      "venue": "都立小金井公園 いこいの広場周辺",
+      "city": "小金井市",
+      "price": "天体観測無料／ランタン作り1組800円",
+      "target": "どなたでも（未就学児保護者同伴）",
+      "reservation": "公式予約フォームあり",
+      "category": "科学・工作",
+      "description": "11月7・8日の望遠鏡を使う天体観測と、7日の落ち葉を使ったランタン作り。期間展示・ライトアップ自体は候補化しない。",
+      "official_url": "https://www.tokyo-park.or.jp/special/flowerandlight/koganei2026autumn/index.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.tokyo-park.or.jp/special/flowerandlight/koganei2026autumn/index.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_35292b03767a",
+      "title": "はけの森さんぽ ―秋の野川とはけの道を歩く―",
+      "event_dates": [
+        "2026-11-07"
+      ],
+      "time": "12:30～14:30（予定）",
+      "venue": "はけの森美術館正面入口集合",
+      "city": "小金井市",
+      "price": "無料",
+      "target": "小学生以上（小学3年生までは保護者同伴）",
+      "reservation": "事前申込制、20人（申込順）",
+      "category": "自然・まち歩き",
+      "description": "野川とはけの道を約1時間散策し、終了後に美術館展覧会招待券を受け取れる企画。",
+      "official_url": "https://www.city.koganei.lg.jp/kankobunka/453/boshu_oshirase/sannpo.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.koganei.lg.jp/kankobunka/453/boshu_oshirase/sannpo.html",
+        "https://9324e32388bc7267deda3b0da2476d17.cdnext.stream.ne.jp/kankobunka/453/boshu_oshirase/sannpo.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_66722e4f483a",
+      "title": "はけの森美術館20周年展 ギャラリートーク",
+      "event_dates": [
+        "2026-11-07"
+      ],
+      "time": "14:00～14:30",
+      "venue": "小金井市立はけの森美術館 1階展示室",
+      "city": "小金井市",
+      "price": "トーク無料・要観覧券（一般200円、小中学生100円）",
+      "target": "－",
+      "reservation": "事前申込不要、当日直接会場へ",
+      "category": "美術・ギャラリートーク",
+      "description": "学芸員が開館20周年記念展の作品と展示を解説する単日プログラム。",
+      "official_url": "https://www.city.koganei.lg.jp/kankobunka/453/hakenomori/hakebi.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.koganei.lg.jp/kankobunka/453/hakenomori/hakebi.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_9e4aac081e46",
+      "title": "土曜ファミリー劇場「にんぎょうげき」",
+      "event_dates": [
+        "2026-11-07"
+      ],
+      "time": "13:15～14:00（12:45開場）",
+      "venue": "柴崎学習館 地下1階ホール",
+      "city": "立川市",
+      "price": "無料",
+      "target": "どなたでも",
+      "reservation": "申込不要・先着60人",
+      "category": "人形劇",
+      "description": "人形劇団コッコ座による「三枚のお札」「二匹の子ぐま」など。",
+      "official_url": "https://www.city.tachikawa.lg.jp/event/e-kodomo/1027958.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.tachikawa.lg.jp/event/e-kodomo/1027958.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261108_chatgpt_1b90c0182a16",
+      "title": "令和8年度立川市総合防災訓練",
+      "event_dates": [
+        "2026-11-08"
+      ],
+      "time": "8:15～12:00（体験ブース等は9:00から）",
+      "venue": "立川市立立川第七中学校",
+      "city": "立川市",
+      "price": "－",
+      "target": "どなたでも",
+      "reservation": "申込不要。はしご体験は9:15から整理券配布",
+      "category": "防災・乗り物体験",
+      "description": "消防車・警察車両・自衛隊車両の展示と体験乗車、救助訓練、炊き出し、スタンプラリーなど。",
+      "official_url": "https://www.city.tachikawa.lg.jp/bosai/m-bosai/1008366/1028513.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.tachikawa.lg.jp/bosai/m-bosai/1008366/1028513.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_c74c841903b4",
+      "title": "くるりんと歩こう スタンプラリー in 国営昭和記念公園",
+      "event_dates": [
+        "2026-11-07"
+      ],
+      "time": "9:30～12:30",
+      "venue": "国営昭和記念公園内4か所のスタンプポイント",
+      "city": "立川市",
+      "price": "無料（公園入園料の扱いは－）",
+      "target": "どなたでも",
+      "reservation": "申込不要",
+      "category": "スタンプラリー",
+      "description": "幸小学校の児童が企画。4つのスタンプを重ねて絵を完成させるとオリジナルステッカーがもらえる。",
+      "official_url": "https://www.city.tachikawa.lg.jp/event/e-kodomo/1028592.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.tachikawa.lg.jp/event/e-kodomo/1028592.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_c4d874ffe12d",
+      "title": "昭和記念公園 クラフト教室「葉っぱでアート」",
+      "event_dates": [
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "time": "10:30～11:30、13:00～14:30（受付）",
+      "venue": "国営昭和記念公園 こどもの森 木工房",
+      "city": "立川市",
+      "price": "300円（入園料別）",
+      "target": "小学生・中学生",
+      "reservation": "当日受付・先着順（入室定員9名、随時入替）",
+      "category": "工作・自然",
+      "description": "園内の葉や小枝を使い額に飾る作品を制作。",
+      "official_url": "https://www.showakinen-koen.jp/event/25743/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.showakinen-koen.jp/event/25743/"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_a4a7a5e371e6",
+      "title": "昭和記念公園 季節を彩るガーデニング＆クラフト教室（11月7日回）",
+      "event_dates": [
+        "2026-11-07"
+      ],
+      "time": "寄せ植え10:00～12:00／特別編コキアほうき13:00～15:00",
+      "venue": "国営昭和記念公園 あけぼの口・総合案内所",
+      "city": "立川市",
+      "price": "長期講座全7回2,750円／特別編ほうき1本2,200円",
+      "target": "小学生以上",
+      "reservation": "WEB事前予約・先着順（長期講座と特別編は別枠）",
+      "category": "園芸・工作",
+      "description": "冬越しを考えた寄せ植え実習と、育てたコキアでほうきを作る特別編。",
+      "official_url": "https://www.showakinen-koen.jp/event/66122/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.showakinen-koen.jp/event/66122/"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_8baaa26ff456",
+      "title": "昭和記念公園 ハンギングバスケットワークショップ",
+      "event_dates": [
+        "2026-11-07"
+      ],
+      "time": "10:30～12:30／13:30～15:30",
+      "venue": "花みどり文化センター 研修室",
+      "city": "立川市",
+      "price": "各回5,500円",
+      "target": "－",
+      "reservation": "11月1日16:30まで事前申込・先着各回11人",
+      "category": "園芸・工作",
+      "description": "春まで楽しめる壁掛け式寄せ植えバスケットを制作。",
+      "official_url": "https://www.showakinen-koen.jp/event/74976/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.showakinen-koen.jp/event/74976/"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_7a7bfffd3445",
+      "title": "昭和記念公園 秋の夜散歩「シャボン玉フォトジェニックタイム」",
+      "event_dates": [
+        "2026-11-07"
+      ],
+      "time": "－",
+      "venue": "国営昭和記念公園 秋の夜散歩会場",
+      "city": "立川市",
+      "price": "イベント参加無料（夜間入園等は別途の場合あり）",
+      "target": "－",
+      "reservation": "公式一覧に予約終了と記載。雨天中止",
+      "category": "夜間イベント",
+      "description": "秋の夜散歩の11月7日限定のシャボン玉演出。",
+      "official_url": "https://www.showakinen-koen.jp/event/page/2/?ai1ec=tag_ids~58",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.showakinen-koen.jp/event/page/2/?ai1ec=tag_ids~58"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_adc8e28b8ca5",
+      "title": "府中市郷土の森博物館 星空観望会「土星を見よう！」",
+      "event_dates": [
+        "2026-11-07"
+      ],
+      "time": "18:30／19:30（各約45分）",
+      "venue": "府中市郷土の森博物館 園内",
+      "city": "府中市",
+      "price": "大人300円、中学生以下150円、4歳未満無料",
+      "target": "－",
+      "reservation": "Peatixで事前申込制（10月24日9:00受付開始）、当日現金払い",
+      "category": "天文・観望会",
+      "description": "望遠鏡で土星と季節の星を観察。曇雨天時はプラネタリウムで機材体験に変更。",
+      "official_url": "https://www.fuchu-cpf.or.jp/museum/event/1000075/1002888/1002880.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.fuchu-cpf.or.jp/museum/event/1000075/1002888/1002880.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261108_chatgpt_6efff7f1f38d",
+      "title": "はたらくくるま2026 in 府中",
+      "event_dates": [
+        "2026-11-08"
+      ],
+      "time": "－",
+      "venue": "府中市内（会場詳細は公式ページ参照）",
+      "city": "府中市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "乗り物・地域イベント",
+      "description": "働く車をテーマにしたまちづくり府中のイベント。",
+      "official_url": "https://machidukuri-fuchu.jp/event/2026/11/08/2026-11-08-hatarakukuruma/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://machidukuri-fuchu.jp/event/2026/11/08/2026-11-08-hatarakukuruma/"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_ac8095e4972a",
+      "title": "大國魂神社 酉の市（一の酉）",
+      "event_dates": [
+        "2026-11-07"
+      ],
+      "time": "－",
+      "venue": "大國魂神社",
+      "city": "府中市",
+      "price": "参拝無料（授与品等有料）",
+      "target": "どなたでも",
+      "reservation": "申込不要",
+      "category": "伝統行事・祭り",
+      "description": "熊手などの縁起物が並ぶ酉の市。",
+      "official_url": "https://www.ookunitamajinja.or.jp/info/2026/10/2026tori/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.ookunitamajinja.or.jp/info/2026/10/2026tori/"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_952095c5fdbc",
+      "title": "第65回東村山市民産業まつり",
+      "event_dates": [
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "time": "－",
+      "venue": "東村山市役所周辺",
+      "city": "東村山市",
+      "price": "－",
+      "target": "どなたでも",
+      "reservation": "－",
+      "category": "産業祭・地域祭り",
+      "description": "地元の産業・農業を紹介する市民産業まつり。",
+      "official_url": "https://shoukoukai.or.jp/2026/07/1559/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://shoukoukai.or.jp/2026/07/1559/"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_1b1fc2ef179c",
+      "title": "つむじ、暮らしの文化祭2026",
+      "event_dates": [
+        "2026-11-07"
+      ],
+      "time": "9:00～15:00",
+      "venue": "つむじ（東村山市久米川町4-34-6）",
+      "city": "東村山市",
+      "price": "入場無料（ワークショップ・物販は有料）",
+      "target": "どなたでも（一部制作は中学生以上）",
+      "reservation": "入場予約不要、一部ワークショップは予約制",
+      "category": "マルシェ・工作",
+      "description": "木工や花のワークショップ、手仕事・食の出店、朝市など。",
+      "official_url": "https://aibaeco.co.jp/event/event-32680/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://aibaeco.co.jp/event/event-32680/"
+      ]
+    },
+    {
+      "event_id": "evt_20261108_chatgpt_dea794f6d227",
+      "title": "第6回 てとてフェスタ",
+      "event_dates": [
+        "2026-11-08"
+      ],
+      "time": "10:00～14:00",
+      "venue": "多摩平の森 て・と・てテラス（て・と・てお広場）",
+      "city": "日野市",
+      "price": "－",
+      "target": "子どもから大人まで",
+      "reservation": "－",
+      "category": "地域祭り・工作",
+      "description": "こども・あそびブース、クイズラリー、手づくり市、ステージショー。雨天時は規模縮小。",
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000253.000140756.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://prtimes.jp/main/html/rd/p/000000253.000140756.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261108_chatgpt_1cbbd590cd75",
+      "title": "多摩中央公園 本のまち祭り2026",
+      "event_dates": [
+        "2026-11-08"
+      ],
+      "time": "10:00～16:00",
+      "venue": "多摩中央公園 旧富澤家住宅・多摩市立中央図書館",
+      "city": "多摩市",
+      "price": "入場無料（一部物販有料）",
+      "target": "－",
+      "reservation": "琴の演奏・おはなし会は予約不要。講演会は当日先着50名",
+      "category": "本・音楽・地域祭り",
+      "description": "本の物々交換、琴の演奏と体験、昔話おはなし会、児童文学講演会など。",
+      "official_url": "https://tama-central-park.jp/event/entry-456.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://tama-central-park.jp/event/entry-456.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261108_chatgpt_06932bfe47dd",
+      "title": "多摩中央公園 本のクイズラリー2026",
+      "event_dates": [
+        "2026-11-08"
+      ],
+      "time": "－",
+      "venue": "多摩市内の図書館・書店・旧富澤家住宅など9か所",
+      "city": "多摩市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "本・クイズラリー",
+      "description": "11月8日開始。9か所を巡り本に関するクイズに挑戦する参加型企画。",
+      "official_url": "https://tama-central-park.jp/event/entry-457.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://tama-central-park.jp/event/entry-457.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261108_chatgpt_f6469e179a7e",
+      "title": "第51回 小平～多摩湖歩け歩け会",
+      "event_dates": [
+        "2026-11-08"
+      ],
+      "time": "9:00～9:30受付",
+      "venue": "花小金井駅南口・小平駅南口・萩山駅北口の各受付地点",
+      "city": "小平市",
+      "price": "無料（交通費別）",
+      "target": "どなたでも（小学生以下は保護者同伴）",
+      "reservation": "申込書に記入し当日受付へ提出",
+      "category": "ウォーキング",
+      "description": "グリーンロードを通り多摩湖まで4.9～8.6kmを歩く。",
+      "official_url": "https://www.city.kodaira.lg.jp/event/115/115601.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.kodaira.lg.jp/event/115/115601.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_bc9b6108a84f",
+      "title": "旬の野菜の収穫体験・農園見学",
+      "event_dates": [
+        "2026-11-07"
+      ],
+      "time": "8:50集合～12:00頃",
+      "venue": "小平市役所正面玄関集合／植竹園・浅見農園",
+      "city": "小平市",
+      "price": "1,500円",
+      "target": "市内在住・在勤・在学の小学生以上",
+      "reservation": "10月22日申込締切済み、応募多数時抽選",
+      "category": "農業・収穫体験",
+      "description": "市のマイクロバスで市内農園を訪問し野菜の収穫を体験。",
+      "official_url": "https://www.city.kodaira.lg.jp/event/128/128936.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.kodaira.lg.jp/event/128/128936.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_ede188098535",
+      "title": "第30回あきる野市産業祭",
+      "event_dates": [
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "time": "7日10:00～16:00／8日9:00～16:00",
+      "venue": "都立秋留台公園",
+      "city": "あきる野市",
+      "price": "－",
+      "target": "どなたでも",
+      "reservation": "－",
+      "category": "産業祭・農業体験",
+      "description": "農産物販売、車両展示、子牛の写生会（7日・小学生以下）、野菜の宝船やステージなど。",
+      "official_url": "https://www.city.akiruno.tokyo.jp/0000020797.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.akiruno.tokyo.jp/0000020797.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_3ed2270fc453",
+      "title": "暮らすトコロマーケット2026",
+      "event_dates": [
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "time": "－",
+      "venue": "所沢航空記念公園",
+      "city": "所沢市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "クラフト・マルシェ",
+      "description": "作り手のクラフトや食などが集まる屋外マーケット。",
+      "official_url": "https://kuratoko.com/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://kuratoko.com/"
+      ]
+    },
+    {
+      "event_id": "evt_20261108_chatgpt_06e8f684308c",
+      "title": "野川公園 チャレンジキャラバン2026",
+      "event_dates": [
+        "2026-11-08"
+      ],
+      "time": "－",
+      "venue": "都立野川公園",
+      "city": "三鷹市",
+      "price": "－",
+      "target": "親子など",
+      "reservation": "－",
+      "category": "スポーツ体験",
+      "description": "多様なスポーツを体験し、体を動かす楽しさを知る公園イベント。",
+      "official_url": "https://musashinoparks.com/event/event-6974/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://musashinoparks.com/event/event-6974/"
+      ]
+    },
+    {
+      "event_id": "evt_20261108_chatgpt_f6954d7576b2",
+      "title": "武蔵野公園 初心者・初級者のためのスケボー教室",
+      "event_dates": [
+        "2026-11-08"
+      ],
+      "time": "10:00～12:00",
+      "venue": "都立武蔵野公園 スケートボード広場",
+      "city": "府中市",
+      "price": "1人2,500円（保険料込）",
+      "target": "4歳以上（小学生以下保護者同伴）",
+      "reservation": "10月8日12:00から電話による事前申込・先着15名",
+      "category": "スポーツ・スケートボード",
+      "description": "初心者向けに滑り方と広場のマナーを学ぶ。スケートボード・ヘルメット持参、貸出なし。",
+      "official_url": "https://musashinoparks.com/event/event-6542/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://musashinoparks.com/event/event-6542/"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_020d046146b7",
+      "title": "井の頭自然文化園 ちょっとおでかけ 秋の夜長の自然文化園",
+      "event_dates": [
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "time": "特別開園～20:00（最終入園19:00）、夜の動物ガイド17:00～19:00",
+      "venue": "井の頭自然文化園",
+      "city": "武蔵野市",
+      "price": "通常入園料",
+      "target": "どなたでも",
+      "reservation": "－",
+      "category": "動物・自然・音楽",
+      "description": "夜の動物ガイド、植物遊び（両日14:30）、7日彫刻ガイド、8日18:00から屋外演奏会。",
+      "official_url": "https://www.tokyo-zoo.net/inokashira/news/12657/index.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.tokyo-zoo.net/inokashira/news/12657/index.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_8dc6c8b52e47",
+      "title": "井の頭自然文化園 飼育係のお話「ミーアキャット」",
+      "event_dates": [
+        "2026-11-07"
+      ],
+      "time": "10:30～10:40",
+      "venue": "井の頭自然文化園 本園ミーアキャット前",
+      "city": "武蔵野市",
+      "price": "通常入園料",
+      "target": "－",
+      "reservation": "－（雨天中止）",
+      "category": "動物・飼育員ガイド",
+      "description": "飼育係がアフリカの動物ミーアキャットについて紹介。",
+      "official_url": "https://www.tokyo-zoo.net/inokashira/events/13607/index.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.tokyo-zoo.net/inokashira/events/13607/index.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261107_chatgpt_b67a70147f38",
+      "title": "井の頭自然文化園 飼育係のお話「フェネック」",
+      "event_dates": [
+        "2026-11-07"
+      ],
+      "time": "11:00～11:10",
+      "venue": "井の頭自然文化園 本園フェネック前",
+      "city": "武蔵野市",
+      "price": "通常入園料",
+      "target": "－",
+      "reservation": "－（雨天中止）",
+      "category": "動物・飼育員ガイド",
+      "description": "飼育係がフェネックの生態などについて紹介。",
+      "official_url": "https://www.tokyo-zoo.net/inokashira/events/13608/index.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.tokyo-zoo.net/inokashira/events/13608/index.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261108_chatgpt_a88f10ad2dfa",
+      "title": "多摩六都科学館 北斗七星をさがそう",
+      "event_dates": [
+        "2026-11-08"
+      ],
+      "time": "－",
+      "venue": "多摩六都科学館",
+      "city": "西東京市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "天文・科学",
+      "description": "北斗七星をテーマにした科学館の当日プログラム。",
+      "official_url": "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-11-08&info=3700",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-11-08&info=3700",
+        "https://www.tamarokuto.or.jp/calendar/index.html?c=event&calendar=2026-11-08"
+      ]
+    },
+    {
+      "event_id": "evt_20261108_chatgpt_96c8033d4342",
+      "title": "多摩六都科学館 ザクロ石を観察しよう",
+      "event_dates": [
+        "2026-11-08"
+      ],
+      "time": "－",
+      "venue": "多摩六都科学館",
+      "city": "西東京市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "地学・観察",
+      "description": "ザクロ石を観察する科学館プログラム。",
+      "official_url": "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-11-08&info=3672",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-11-08&info=3672",
+        "https://www.tamarokuto.or.jp/calendar/index.html?c=event&calendar=2026-11-08"
+      ]
+    },
+    {
+      "event_id": "evt_20261108_chatgpt_4ee846e330d4",
+      "title": "多摩六都科学館 みんなで実験！しくみラボ",
+      "event_dates": [
+        "2026-11-08"
+      ],
+      "time": "－",
+      "venue": "多摩六都科学館",
+      "city": "西東京市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "科学実験",
+      "description": "実験を通じて仕組みを学ぶ科学館プログラム。",
+      "official_url": "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-11-08&info=3699",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-11-08&info=3699",
+        "https://www.tamarokuto.or.jp/calendar/index.html?c=event&calendar=2026-11-08"
+      ]
+    },
+    {
+      "event_id": "evt_20261108_chatgpt_e201bdf05120",
+      "title": "多摩六都科学館 キッズプラネタリウム「ペガロク」",
+      "event_dates": [
+        "2026-11-08"
+      ],
+      "time": "－",
+      "venue": "多摩六都科学館 プラネタリウム",
+      "city": "西東京市",
+      "price": "－",
+      "target": "子ども向け",
+      "reservation": "－",
+      "category": "プラネタリウム",
+      "description": "子ども向けのプラネタリウム番組。",
+      "official_url": "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-11-08&info=3686",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-11-08&info=3686",
+        "https://www.tamarokuto.or.jp/calendar/index.html?c=event&calendar=2026-11-08"
+      ]
+    },
+    {
+      "event_id": "evt_20261108_chatgpt_76fc474fe8df",
+      "title": "多摩六都科学館 大型映像「恐竜新世界」",
+      "event_dates": [
+        "2026-11-08"
+      ],
+      "time": "－",
+      "venue": "多摩六都科学館 サイエンスエッグ",
+      "city": "西東京市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "大型映像・恐竜",
+      "description": "恐竜をテーマにした大型映像番組。",
+      "official_url": "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-11-08&info=3687",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-11-08&info=3687",
+        "https://www.tamarokuto.or.jp/calendar/index.html?c=event&calendar=2026-11-08"
+      ]
+    },
+    {
+      "event_id": "evt_20261108_chatgpt_fe363d3bd031",
+      "title": "多摩六都科学館 生解説プラネタリウム「宇宙クルーズ」",
+      "event_dates": [
+        "2026-11-08"
+      ],
+      "time": "－",
+      "venue": "多摩六都科学館 プラネタリウム",
+      "city": "西東京市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "プラネタリウム",
+      "description": "スタッフの生解説を伴う宇宙のプラネタリウム番組。",
+      "official_url": "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-11-08&info=3688",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-11-08&info=3688",
+        "https://www.tamarokuto.or.jp/calendar/index.html?c=event&calendar=2026-11-08"
+      ]
+    },
+    {
+      "event_id": "evt_20261108_chatgpt_638c5e431701",
+      "title": "多摩六都科学館 プラネタリウム「VOYAGER」",
+      "event_dates": [
+        "2026-11-08"
+      ],
+      "time": "－",
+      "venue": "多摩六都科学館 プラネタリウム",
+      "city": "西東京市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "プラネタリウム",
+      "description": "宇宙をテーマにしたプラネタリウム番組。",
+      "official_url": "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-11-08&info=3685",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.tamarokuto.or.jp/event/index.html?c=event&day=2026-11-08&info=3685",
+        "https://www.tamarokuto.or.jp/calendar/index.html?c=event&calendar=2026-11-08"
+      ]
+    }
+  ]
+}
