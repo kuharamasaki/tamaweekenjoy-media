@@ -1,0 +1,257 @@
+{
+  "period": "2026-11-14_15",
+  "generated_at": "2026-11-07T08:34:26+09:00",
+  "events": [
+    {
+      "event_id": "evt_20261114_chatgpt_f3387e05b48a",
+      "title": "第60回日野市産業まつり",
+      "event_dates": [
+        "2026-11-14",
+        "2026-11-15"
+      ],
+      "time": "14日10:00～15:00、15日9:30～15:00",
+      "venue": "市民の森ふれあいホール・仲田の森蚕糸公園ほか",
+      "city": "日野市",
+      "price": "－",
+      "target": "子ども・保護者など",
+      "reservation": "－",
+      "category": "産業祭",
+      "description": "地域産業の祭典。",
+      "official_url": "https://www.city.hino.lg.jp/sangyo/shinko/1029887.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.hino.lg.jp/sangyo/shinko/1029887.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261114_chatgpt_d467e35844fc",
+      "title": "第64回三鷹市農業祭",
+      "event_dates": [
+        "2026-11-14",
+        "2026-11-15"
+      ],
+      "time": "14日10:00～16:00、15日9:00～15:00",
+      "venue": "三鷹中央防災公園ほか",
+      "city": "三鷹市",
+      "price": "無料",
+      "target": "－",
+      "reservation": "一部企画は申込必要",
+      "category": "農業・祭り",
+      "description": "農畜産物の展示・販売、野菜の宝船、模擬店。",
+      "official_url": "https://www.city.mitaka.lg.jp/c_event/120/120972.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.mitaka.lg.jp/c_event/120/120972.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261114_chatgpt_655640c7e982",
+      "title": "第23回西東京市民まつり",
+      "event_dates": [
+        "2026-11-14",
+        "2026-11-15"
+      ],
+      "time": "14日10:00～16:00、15日9:00～15:30",
+      "venue": "西東京いこいの森公園",
+      "city": "西東京市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "地域祭り",
+      "description": "市民ステージ、パフォーマンス、飲食・展示ブース。",
+      "official_url": "https://www.city.nishitokyo.lg.jp/enjoy/bunkasai/matsuri/23_nishitokyoshiminmatsuri.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.nishitokyo.lg.jp/enjoy/bunkasai/matsuri/23_nishitokyoshiminmatsuri.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261114_chatgpt_21e8bbb99b8d",
+      "title": "にしとうきょう環境フェスティバル",
+      "event_dates": [
+        "2026-11-14",
+        "2026-11-15"
+      ],
+      "time": "14日10:00～16:00、15日9:00～15:30",
+      "venue": "西東京いこいの森公園 ボール広場",
+      "city": "西東京市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "環境・体験",
+      "description": "環境を学ぶ体験やワークショップ。",
+      "official_url": "https://www.city.nishitokyo.lg.jp/kurasi/kankyo/ondanka/kanfes/kankyoufestival2026.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.nishitokyo.lg.jp/kurasi/kankyo/ondanka/kanfes/kankyoufestival2026.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261114_chatgpt_36c82b5f723b",
+      "title": "第49回国立市農業まつり",
+      "event_dates": [
+        "2026-11-14",
+        "2026-11-15"
+      ],
+      "time": "14日10:00～15:00、15日9:00～15:00",
+      "venue": "国立市役所・谷保第四公園",
+      "city": "国立市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "農業・祭り",
+      "description": "地元農業と秋の実りを紹介する祭り。",
+      "official_url": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept06/Div06/Sec03/gyomu/0486/9985.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.kunitachi.tokyo.jp/soshiki/Dept06/Div06/Sec03/gyomu/0486/9985.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261114_chatgpt_d9f899e35553",
+      "title": "第32回城山文化センターまつり",
+      "event_dates": [
+        "2026-11-14",
+        "2026-11-15"
+      ],
+      "time": "14日10:00～17:00、15日9:00～15:00",
+      "venue": "城山文化センター・うさぎさん公園",
+      "city": "稲城市",
+      "price": "－",
+      "target": "子どもから大人まで",
+      "reservation": "－",
+      "category": "地域文化・工作",
+      "description": "展示・発表、模擬店、工作体験、太鼓、児童館ステージ。",
+      "official_url": "https://www.city.inagi.tokyo.jp/cn/kosodate/shakaikyouiku/1003830/1011556/1013179.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.inagi.tokyo.jp/cn/kosodate/shakaikyouiku/1003830/1011556/1013179.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261114_chatgpt_fdaa0c56ca25",
+      "title": "相馬野馬追 稲城出張公演",
+      "event_dates": [
+        "2026-11-14"
+      ],
+      "time": "11:00～16:00",
+      "venue": "稲城中央公園",
+      "city": "稲城市",
+      "price": "無料",
+      "target": "どなたでも",
+      "reservation": "－",
+      "category": "伝統文化・実演",
+      "description": "甲冑を着た騎馬武者による相馬野馬追の出張公演。",
+      "official_url": "https://www.city.inagi.tokyo.jp/cn/shisei/syunenjigyou/1013824/1014040/1014041.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.inagi.tokyo.jp/cn/shisei/syunenjigyou/1013824/1014040/1014041.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261114_chatgpt_d87d3e5736d8",
+      "title": "第5回武蔵野回廊文化祭",
+      "event_dates": [
+        "2026-11-14",
+        "2026-11-15"
+      ],
+      "time": "－",
+      "venue": "ところざわサクラタウン・東所沢公園",
+      "city": "所沢市",
+      "price": "入場無料（一部有料）",
+      "target": "－",
+      "reservation": "コスプレ参加・撮影は有料チケット制",
+      "category": "文化祭・体験",
+      "description": "ポップカルチャー、伝統文化、将棋体験など。",
+      "official_url": "https://tokorozawa-sakuratown.com/event_categories/musashino-kairo26.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://tokorozawa-sakuratown.com/event_categories/musashino-kairo26.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261114_chatgpt_3c37414e31d5",
+      "title": "旧日野桑園第一蚕室公開・解説ガイド",
+      "event_dates": [
+        "2026-11-14",
+        "2026-11-15"
+      ],
+      "time": "10:00～15:30",
+      "venue": "旧日野桑園第一蚕室（仲田の森蚕糸公園内）",
+      "city": "日野市",
+      "price": "無料",
+      "target": "－",
+      "reservation": "申込不要",
+      "category": "歴史・ガイド",
+      "description": "国登録有形文化財の建物公開と解説ガイド。",
+      "official_url": "https://www.city.hino.lg.jp/museum/1022836/1022847/1031780.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.hino.lg.jp/museum/1022836/1022847/1031780.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261114_chatgpt_074507557ff8",
+      "title": "第35回府中市農業まつり",
+      "event_dates": [
+        "2026-11-14",
+        "2026-11-15"
+      ],
+      "time": "－",
+      "venue": "府中市郷土の森博物館",
+      "city": "府中市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "農業・祭り",
+      "description": "府中産農産物即売、野菜の宝船、参加型ゲーム。市の2026年11月14日イベントカレンダーにも掲載。",
+      "official_url": "https://www.city.fuchu.tokyo.jp/event/kurashi/nougyoumatsuri.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.fuchu.tokyo.jp/event/kurashi/nougyoumatsuri.html",
+        "https://www.city.fuchu.tokyo.jp/event/calendar/day_calendar20261114.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261114_chatgpt_16b9c0ae5dd5",
+      "title": "FC東京 のびのびサッカーひろば",
+      "event_dates": [
+        "2026-11-14"
+      ],
+      "time": "13:00～14:00（小学生の部）",
+      "venue": "－",
+      "city": "府中市",
+      "price": "－",
+      "target": "府中市在住の知的・発達の障害特性がある小学生",
+      "reservation": "募集案内を確認",
+      "category": "スポーツ体験",
+      "description": "ボール遊びを取り入れたサッカー体験。",
+      "official_url": "https://www.city.fuchu.tokyo.jp/kenko/shogai/soccer1114.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.fuchu.tokyo.jp/kenko/shogai/soccer1114.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261114_chatgpt_c1e384543e68",
+      "title": "国立市議会意見交換会 in 農業まつり",
+      "event_dates": [
+        "2026-11-14",
+        "2026-11-15"
+      ],
+      "time": "12:00～14:00",
+      "venue": "国立市役所1階市民ロビー",
+      "city": "国立市",
+      "price": "－",
+      "target": "－",
+      "reservation": "申込不要",
+      "category": "地域交流",
+      "description": "農業まつり会場で市政について意見を伝える催し。",
+      "official_url": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept09/Div01/Sec01/gyomu/gikai_kaigi_nittei_kekka/koutyou/14806.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.kunitachi.tokyo.jp/soshiki/Dept09/Div01/Sec01/gyomu/gikai_kaigi_nittei_kekka/koutyou/14806.html"
+      ]
+    }
+  ]
+}
