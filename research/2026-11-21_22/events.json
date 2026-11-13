@@ -1,0 +1,211 @@
+{
+  "period": "2026-11-21_22",
+  "generated_at": "2026-11-14T08:30:19+09:00",
+  "events": [
+    {
+      "event_id": "evt_20261121_chatgpt_c74210f498cd",
+      "title": "多摩モノまつり2026",
+      "event_dates": [
+        "2026-11-21"
+      ],
+      "time": "10:00～15:00",
+      "venue": "多摩モノレール車両基地",
+      "city": "立川市",
+      "price": "－",
+      "target": "どなたでも",
+      "reservation": "－",
+      "category": "鉄道・体験",
+      "description": "特別車両の実演、デジタルフォトラリー、沿線自治体ブース、ラスカルグリーティングなど",
+      "official_url": "https://www.city.tama.lg.jp/kanko/1015690/1016226/1018469.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.tama.lg.jp/kanko/1015690/1016226/1018469.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261121_chatgpt_e8ccbed90f55",
+      "title": "こくカレ博覧会",
+      "event_dates": [
+        "2026-11-21"
+      ],
+      "time": "11:00～15:00",
+      "venue": "国分寺市役所ぶんぶん広場等",
+      "city": "国分寺市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "地域・体験",
+      "description": "シャボン玉やゲームなどを含む地域プロジェクトの発表・交流",
+      "official_url": "https://www.city.kokubunji.tokyo.jp/kurashi/koutsuu/jourei/1034126/1037203.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.kokubunji.tokyo.jp/kurashi/koutsuu/jourei/1034126/1037203.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261121_chatgpt_bdbec200dc91",
+      "title": "秋の里山フェスティバル",
+      "event_dates": [
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "time": "9:30～15:00",
+      "venue": "高尾の森自然学校",
+      "city": "八王子市",
+      "price": "1人500円（保護者も必要）",
+      "target": "未就学児・小学生と保護者",
+      "reservation": "事前申込制、11月14日締切、各日200名、応募多数は抽選",
+      "category": "自然・工作",
+      "description": "ドングリを使った里山クラフト、読み聞かせ、自然体験など",
+      "official_url": "https://www.city.hachioji.tokyo.jp/kurashi/life/004/green/satoyama/p038071.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.hachioji.tokyo.jp/kurashi/life/004/green/satoyama/p038071.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261121_chatgpt_129c1222f094",
+      "title": "東浅川保健福祉センターまつり",
+      "event_dates": [
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "time": "10:00～15:00",
+      "venue": "東浅川保健福祉センター",
+      "city": "八王子市",
+      "price": "入場無料",
+      "target": "－",
+      "reservation": "予約不要",
+      "category": "地域・工作",
+      "description": "健康チェック、21日のちびっこ紙工作、22日の体力測定など",
+      "official_url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/013/002/p034362.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/013/002/p034362.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261121_chatgpt_b50fd5beae95",
+      "title": "八王子いちょう祭り 特別通行記念手形づくり",
+      "event_dates": [
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "time": "10:00～14:00",
+      "venue": "千人町桑の実公園",
+      "city": "八王子市",
+      "price": "無料",
+      "target": "3歳～就学前、小中学生、高校生以上",
+      "reservation": "先着200名、申込詳細は公式ページ参照",
+      "category": "工作・街歩き",
+      "description": "通行手形を作製し、甲州街道沿いの関所を巡るオリエンテーリングに参加できる",
+      "official_url": "https://kosodate.city.hachioji.tokyo.jp/event/3975.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://kosodate.city.hachioji.tokyo.jp/event/3975.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261121_chatgpt_8a90a35ab836",
+      "title": "装着型ロボット「スケルトニクス」操縦体験",
+      "event_dates": [
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "time": "－",
+      "venue": "コニカミノルタ サイエンスドーム",
+      "city": "八王子市",
+      "price": "－",
+      "target": "－",
+      "reservation": "事前予約制、各開催日の7日前8:30から前日16:00まで申込順",
+      "category": "科学・ロボット",
+      "description": "装着型ロボットの操縦体験。開催日別の申込先を公式ページに掲載",
+      "official_url": "https://www.city.hachioji.tokyo.jp/shisetsu/003/p030708.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.hachioji.tokyo.jp/shisetsu/003/p030708.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261121_chatgpt_c3204e369096",
+      "title": "すきな時間のTシャツをつくろう",
+      "event_dates": [
+        "2026-11-22"
+      ],
+      "time": "子ども編10:30～12:30／一般編14:00～16:00",
+      "venue": "府中市美術館1階 創作室",
+      "city": "府中市",
+      "price": "無料（加工可能なTシャツ持参）",
+      "target": "子ども編は小中学生、一般編は高校生以上",
+      "reservation": "事前申込制、10月27日締切済み",
+      "category": "美術・工作",
+      "description": "好きな時間を表す数字を用いてTシャツをリメイクする",
+      "official_url": "https://www.city.fuchu.tokyo.jp/art/event_artstudio/events/koukaiseisaku/koukaiseisaku_2026/1122_Yasuda_Workshop.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.fuchu.tokyo.jp/art/event_artstudio/events/koukaiseisaku/koukaiseisaku_2026/1122_Yasuda_Workshop.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261121_chatgpt_24fa1edeaef3",
+      "title": "親子で学ぼう！性教育講座",
+      "event_dates": [
+        "2026-11-22"
+      ],
+      "time": "10:00～11:45",
+      "venue": "府中市男女共同参画センター フチュール",
+      "city": "府中市",
+      "price": "1組500円",
+      "target": "市内在住・在勤・在学の5歳～小学3年生と保護者",
+      "reservation": "10月15日から申込、各回先着20組、両日参加者優先",
+      "category": "親子・学び",
+      "description": "紙芝居やクイズを通して体と心について学ぶ",
+      "official_url": "https://www.city.fuchu.tokyo.jp/bunka/bunkacenter/wcenter/oyako2026.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.fuchu.tokyo.jp/bunka/bunkacenter/wcenter/oyako2026.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261121_chatgpt_f59daa3f41bf",
+      "title": "第62回府中市民芸術文化祭 11月22日の舞台プログラム",
+      "event_dates": [
+        "2026-11-22"
+      ],
+      "time": "9:30～18:30（演目ごとに異なる）",
+      "venue": "市民活動センタープラッツ、府中の森芸術劇場",
+      "city": "府中市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "音楽・舞台",
+      "description": "カラオケ歌謡祭、民謡民舞のつどい、吹奏楽祭が開催される",
+      "official_url": "https://www.city.fuchu.tokyo.jp/event/bunka/geijyutubunnkasai2022.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.fuchu.tokyo.jp/event/bunka/geijyutubunnkasai2022.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261121_chatgpt_e82e9e01f880",
+      "title": "第47回八王子いちょう祭り",
+      "event_dates": [
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "time": "21日9:00～16:30／22日9:00～16:00",
+      "venue": "甲州街道沿道・陵南公園周辺",
+      "city": "八王子市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "祭り・街歩き",
+      "description": "いちょう並木100年記念の祭り。パレード、関所オリエンテーリング、各会場の催し",
+      "official_url": "https://www.ichou-festa.org/event/",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.ichou-festa.org/event/"
+      ]
+    }
+  ]
+}
