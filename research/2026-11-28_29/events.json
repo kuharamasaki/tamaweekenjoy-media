@@ -1,0 +1,208 @@
+{
+  "period": "2026-11-28_29",
+  "generated_at": "2026-11-21T08:33:22+09:00",
+  "events": [
+    {
+      "event_id": "evt_20261128_chatgpt_81ae5548d1b5",
+      "title": "親子でミニ四駆を組み立てよう",
+      "event_dates": [
+        "2026-11-28"
+      ],
+      "time": "10:00～12:00",
+      "venue": "公民館貫井北分館 学習室A・B",
+      "city": "小金井市",
+      "price": "1組600円",
+      "target": "小金井市内在住・在勤・在学の小学生と保護者",
+      "reservation": "11月4日必着・抽選10組（受付終了）",
+      "category": "工作・科学",
+      "description": "ミニ四駆を組み立て、室内コースで走行させて自動車の仕組みを学ぶ",
+      "official_url": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kominkan/kouzaannai/kouminkannukuikita/1128mini.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kominkan/kouzaannai/kouminkannukuikita/1128mini.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261128_chatgpt_f1e49adfd2ce",
+      "title": "じどうかんフェスティバル2026",
+      "event_dates": [
+        "2026-11-29"
+      ],
+      "time": "－",
+      "venue": "小金井 宮地楽器ホール",
+      "city": "小金井市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "子ども・地域祭り",
+      "description": "児童館設立60周年を記念し、子どもたちが作ったブースやステージを実施",
+      "official_url": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/jidoukan4kangoudou/jidofes2026.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/jidoukan4kangoudou/jidofes2026.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261128_chatgpt_d6aba26aa856",
+      "title": "子どもの権利の日のつどい",
+      "event_dates": [
+        "2026-11-29"
+      ],
+      "time": "10:30～17:00",
+      "venue": "小金井 宮地楽器ホール",
+      "city": "小金井市",
+      "price": "－",
+      "target": "－",
+      "reservation": "講演会は申込不要・先着順",
+      "category": "体験・ステージ",
+      "description": "スタンプラリー、出張プレーパーク、中高生の発表、講演会など",
+      "official_url": "https://www.city.koganei.lg.jp/kosodatekyoiku/kenri/kenrinohi2026.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.koganei.lg.jp/kosodatekyoiku/kenri/kenrinohi2026.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261128_chatgpt_0a71bbdfc483",
+      "title": "第2回多摩市農業祭",
+      "event_dates": [
+        "2026-11-28"
+      ],
+      "time": "10:00～13:30",
+      "venue": "多摩市役所 地下駐車場",
+      "city": "多摩市",
+      "price": "－",
+      "target": "どなたでも",
+      "reservation": "当日直接会場へ",
+      "category": "農業・マルシェ",
+      "description": "農産物展示と野菜販売、苗木配布、飲食店の出店",
+      "official_url": "https://www.city.tama.lg.jp/shisei/jigyosha/nougyou/1021506.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.tama.lg.jp/shisei/jigyosha/nougyou/1021506.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261128_chatgpt_9328bd95a59a",
+      "title": "たまろくとニュースポーツフェスタ",
+      "event_dates": [
+        "2026-11-28"
+      ],
+      "time": "9:30～12:00",
+      "venue": "下宿地域市民センター・下宿運動公園広場",
+      "city": "清瀬市",
+      "price": "無料",
+      "target": "どなたでも",
+      "reservation": "申込不要・直接会場へ",
+      "category": "スポーツ体験",
+      "description": "モルック、ボッチャ、ベースボール5などを体験。体育館履き等持参",
+      "official_url": "https://www.city.kiyose.lg.jp/bunkasportskankou/sports/sportsevent/1016896.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.kiyose.lg.jp/bunkasportskankou/sports/sportsevent/1016896.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261128_chatgpt_50d15dd0323e",
+      "title": "くにジョブ2026",
+      "event_dates": [
+        "2026-11-28"
+      ],
+      "time": "－",
+      "venue": "旧国立駅舎ほか市内各所",
+      "city": "国立市",
+      "price": "－",
+      "target": "－",
+      "reservation": "JOB体験は事前エントリーと各ジョブへの申込が必要",
+      "category": "仕事体験",
+      "description": "旧国立駅舎を含む市内各所で開催する仕事体験イベント",
+      "official_url": "https://www.city.kunitachi.tokyo.jp/kyukunitachiekisha_specialsite/upcoming_events/14897.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.kunitachi.tokyo.jp/kyukunitachiekisha_specialsite/upcoming_events/14897.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261128_chatgpt_bcc45c5fd90f",
+      "title": "矢野口駅前きらきらフェスタ2026 点灯式",
+      "event_dates": [
+        "2026-11-28"
+      ],
+      "time": "16:00～17:15",
+      "venue": "JR矢野口駅南側ロータリー",
+      "city": "稲城市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "音楽・イルミネーション",
+      "description": "地域住民による演奏やダンスなどを行うイルミネーション点灯式。雨天中止",
+      "official_url": "https://www.city.inagi.tokyo.jp/_res/projects/default_project/_page_/001/014/462/1101_8.pdf",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.inagi.tokyo.jp/_res/projects/default_project/_page_/001/014/462/1101_8.pdf"
+      ]
+    },
+    {
+      "event_id": "evt_20261128_chatgpt_f918d062cdda",
+      "title": "クルリと学ぼう！2026リサイクルひろば",
+      "event_dates": [
+        "2026-11-28",
+        "2026-11-29"
+      ],
+      "time": "10:00～15:00",
+      "venue": "イーアス高尾 1階こもれび広場",
+      "city": "八王子市",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "環境・体験",
+      "description": "分別釣りゲームや食品ロス削減ゲーム、共同制作など",
+      "official_url": "https://www.city.hachioji.tokyo.jp/event/003/p037777.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.hachioji.tokyo.jp/event/003/p037777.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261128_chatgpt_d6d2867d29ed",
+      "title": "映画上映会「おまえうまそうだな」",
+      "event_dates": [
+        "2026-11-28"
+      ],
+      "time": "10:00～12:00",
+      "venue": "FSXホール（くにたち市民芸術小ホール）",
+      "city": "国立市",
+      "price": "－",
+      "target": "－",
+      "reservation": "申込先着250名・フォーム、メールまたは電話",
+      "category": "映画上映",
+      "description": "くにたち人権月間の映画上映会。手話通訳あり",
+      "official_url": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept01/Div01/Sec03/gyomu/0373/0374/jinkenevent/14534.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.city.kunitachi.tokyo.jp/soshiki/Dept01/Div01/Sec03/gyomu/0373/0374/jinkenevent/14534.html"
+      ]
+    },
+    {
+      "event_id": "evt_20261128_chatgpt_83b9d73765c1",
+      "title": "駒沢ファンタジア2026",
+      "event_dates": [
+        "2026-11-28",
+        "2026-11-29"
+      ],
+      "time": "10:00～16:00",
+      "venue": "駒沢オリンピック公園 中央広場",
+      "city": "世田谷区",
+      "price": "－",
+      "target": "－",
+      "reservation": "－",
+      "category": "マルシェ・工作・ステージ",
+      "description": "地域事業者によるマルシェ、ワークショップ、キッチンカー、ステージ",
+      "official_url": "https://www.tokyo-park.or.jp/event_search/komazawa_fantasia2026.html",
+      "image_url": "",
+      "evidence_urls": [
+        "https://www.tokyo-park.or.jp/event_search/komazawa_fantasia2026.html"
+      ]
+    }
+  ]
+}
